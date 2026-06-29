@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f1216">
+  <title>JX Motion · Parts Advisor</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.png">
+  <style>
+    :root {
+      --bg:#0f1216; --bg2:#14181d; --card:#181c22; --card2:#1e232b;
+      --line:#272c34; --ink:#e8eaed; --muted:#9aa2ad;
+      --red:#F70F1A; --orange:#FF7B00; --accent:#FF6A00;
+      --grad:linear-gradient(135deg,#F70F1A,#FF7B00);
+    }
+    * { box-sizing:border-box; }
+    body {
+      margin:0; background:var(--bg); color:var(--ink);
+      font:16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+      -webkit-text-size-adjust:100%;
+    }
+    header {
+      position:sticky; top:0; z-index:5; background:rgba(15,18,22,.92);
+      backdrop-filter:saturate(140%) blur(8px);
+      border-bottom:1px solid var(--line);
+      padding:max(10px,env(safe-area-inset-top)) 14px 12px;
+    }
+    header::after { content:""; display:block; height:2px; background:var(--grad);
+      border-radius:2px; margin:10px -14px -12px; opacity:.9; }
+    .bar { display:flex; align-items:center; gap:12px; max-width:680px; margin:0 auto; }
+    #logo { height:34px; width:auto; display:block; }
+    .brandtxt { flex:1; font-size:13px; color:var(--muted); font-weight:600; letter-spacing:.02em; }
+    #lang-toggle {
+      background:var(--card2); color:var(--ink); border:1px solid var(--line);
+      border-radius:9px; padding:7px 11px; font-weight:700; font-size:13px; cursor:pointer; min-width:42px;
+    }
+    .search-wrap { max-width:680px; margin:12px auto 0; display:flex; gap:8px; }
+    #q {
+      flex:1; padding:13px 15px; font-size:16px; border:1px solid var(--line);
+      border-radius:11px; background:var(--bg2); color:var(--ink);
+    }
+    #q::placeholder { color:#6b7480; }
+    #q:focus { outline:none; border-color:var(--accent); box-shadow:0 0 0 3px rgba(255,106,0,.18); }
+    #advisor-btn {
+      display:none; align-items:center; gap:6px; border:none; border-radius:11px;
+      padding:0 15px; font-size:14px; font-weight:700; color:#fff; cursor:pointer;
+      background:var(--grad); white-space:nowrap;
+    }
+    .filters { max-width:680px; margin:0 auto; padding:12px 14px 0; }
+    .frow { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:9px; }
+    .frow .lbl { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; width:100%; margin-bottom:1px; }
+    .chip {
+      border:1px solid var(--line); background:var(--card); color:var(--ink);
+      border-radius:20px; padding:8px 15px; font-size:14px; cursor:pointer; -webkit-tap-highlight-color:transparent;
+    }
+    .chip.active { background:var(--grad); border-color:transparent; color:#fff; font-weight:600; }
+    select {
+      flex:1; min-width:150px; padding:9px 11px; border:1px solid var(--line);
+      border-radius:9px; background:var(--bg2); color:var(--ink); font-size:14px;
+    }
+    main { max-width:680px; margin:0 auto; padding:6px 14px 24px; }
+    #status { color:var(--muted); font-size:13px; margin:10px 2px; }
+    /* advisor panel */
+    #advisor { display:none; margin:6px 0 14px; border:1px solid var(--line);
+      border-radius:12px; background:var(--card2); overflow:hidden; }
+    #advisor .ahead { display:flex; align-items:center; gap:8px; padding:10px 13px;
+      background:linear-gradient(135deg,rgba(247,15,26,.16),rgba(255,123,0,.16)); font-size:13px; }
+    #advisor .ahead b { background:var(--grad); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    #advisor .anote { padding:10px 13px; color:var(--ink); font-size:14px; border-bottom:1px solid var(--line); }
+    #advisor .acards { padding:8px 10px; }
+    /* cards */
+    .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+      padding:12px 14px; margin-bottom:10px; }
+    .card-head { display:flex; align-items:flex-start; gap:10px; }
+    .pn-wrap { flex:1; display:flex; align-items:center; gap:8px; min-width:0; }
+    .pn { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-weight:700;
+      font-size:15px; word-break:break-all; }
+    .copy { border:1px solid var(--line); background:var(--card2); color:var(--muted);
+      border-radius:7px; font-size:11px; padding:3px 7px; cursor:pointer; white-space:nowrap; }
+    .copy.done { color:#16c172; border-color:#16c172; }
+    .price { font-weight:800; font-size:17px; white-space:nowrap; text-align:right; }
+    .price .vary { color:var(--accent); }
+    .warn { color:var(--accent); font-size:12px; margin-top:3px; text-align:right; }
+    .desc { margin:7px 0 9px; }
+    .badges { display:flex; flex-wrap:wrap; gap:6px; }
+    .badge { font-size:11px; padding:3px 9px; border-radius:20px; background:#20252c; color:#aeb6c0; }
+    .badge.model { background:rgba(255,123,0,.16); color:#ffb066; }
+    .badge.sys { background:rgba(80,140,255,.15); color:#8fb6ff; }
+    details { margin-top:8px; }
+    summary { cursor:pointer; color:var(--muted); font-size:13px; }
+    .meta { font-size:13px; color:var(--muted); margin-top:5px; }
+    footer { max-width:680px; margin:0 auto; padding:4px 14px 30px; }
+    #disclaimer { font-size:12px; color:var(--muted); border-top:1px solid var(--line); padding-top:12px; }
+    #contact { font-size:13px; color:var(--ink); margin-top:8px; }
+    #contact b { color:#fff; }
+    a { color:var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <img id="logo" src="logo.png" alt="JX Motion">
+      <span class="brandtxt" id="subtitle">Parts Advisor</span>
+      <button id="lang-toggle" type="button">SK</button>
+    </div>
+    <div class="search-wrap">
+      <input id="q" type="search" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Search parts…">
+      <button id="advisor-btn" type="button">✨ <span id="advisor-label">Advisor</span></button>
+    </div>
+  </header>
+
+  <div class="filters">
+    <div class="frow"><span class="lbl" id="lbl-model">Model</span><div id="facet-model" style="display:flex;gap:8px;flex-wrap:wrap"></div></div>
+    <div class="frow"><span class="lbl" id="lbl-system">System</span><div id="facet-subsystem" style="display:flex;gap:8px;flex-wrap:wrap"></div></div>
+    <div class="frow">
+      <span class="lbl" id="lbl-group">Group &amp; sort</span>
+      <select id="group"></select>
+      <select id="sort"></select>
+    </div>
+  </div>
+
+  <main>
+    <div id="advisor"></div>
+    <div id="status"></div>
+    <div id="results"></div>
+  </main>
+
+  <footer>
+    <p id="disclaimer"></p>
+    <p id="contact"></p>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

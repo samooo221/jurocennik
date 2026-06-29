@@ -1,0 +1,11 @@
+# Cloudflare Worker config for the Groq advisor proxy.
+# The API key is NOT here — set it once as a secret (never committed):
+#   wrangler secret put GROQ_API_KEY
+# Optionally override the model:
+#   wrangler secret put GROQ_MODEL      (or set [vars] GROQ_MODEL below)
+name = "jxmotion-parts-advisor"
+main = "worker.js"
+compatibility_date = "2026-06-01"
+
+# [vars]
+# GROQ_MODEL = "llama-3.3-70b-versatile"

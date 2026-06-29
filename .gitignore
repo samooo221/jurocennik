@@ -1,0 +1,10 @@
+# Source spreadsheets stay local (44MB, only needed to rebuild catalog.json).
+# Keep them in source/ on your machine; catalog.json is the committed artifact.
+source/
+
+# tooling
+__pycache__/
+*.pyc
+node_modules/
+.wrangler/
+.DS_Store

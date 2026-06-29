@@ -8,7 +8,7 @@ import { search, groundPns } from "./catalog-search.js";
 // URL of the Cloudflare Worker that proxies Groq (holds the key server-side).
 // Empty string = advisor hidden (deterministic search still works fully).
 // Local dev: "http://127.0.0.1:8787"  ·  Deployed: "https://<worker>.workers.dev"
-const ADVISOR_URL = "";
+const ADVISOR_URL = "https://jxmotion-parts-advisor.pavlovicsamuel1.workers.dev";
 // Placeholder until Juraj's real details are in — shown in the footer + empty state.
 const CONTACT = { name: "JX Motion — Juraj", phone: "+421 ___ ___ ___", email: "info@jxmotion.sk" };
 // ======================================================================

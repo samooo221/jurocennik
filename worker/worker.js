@@ -82,11 +82,3 @@ export default {
     return json({ pns, note });
   },
 };
-
-// tiny self-check for the prompt builder (node worker/worker.js)
-if (import.meta.url === `file://${process?.argv?.[1]}`) {
-  const msgs = buildMessages("predná brzda", [{ pn: "T-BRK-CAL", desc: "REAR BRAKE CALIPER" }], "sk");
-  console.assert(msgs.length === 2 && msgs[1].content.includes("T-BRK-CAL"), "builder includes candidate");
-  console.assert(msgs[0].content.includes("Slovak"), "language threaded through");
-  console.log("worker prompt-builder OK");
-}

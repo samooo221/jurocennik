@@ -1,0 +1,10763 @@
+{
+ "meta": {
+  "currency": "EUR",
+  "pricing_basis": "RETAIL, EX WORKS TRALEE IRELAND, 2026 V.02",
+  "generated": "2026-06-29",
+  "part_count": 563,
+  "price_conflicts": 15
+ },
+ "parts": [
+  {
+   "pn": "102-246",
+   "desc": "THROTTLE CABLE SLEEVE RUBBER",
+   "price_eur": 1.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "50"
+   ]
+  },
+  {
+   "pn": "102-247",
+   "desc": "CHOKE LEVER RUBBER SLEEVE",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "102-248",
+   "desc": "Cable Sheath",
+   "price_eur": 4.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "102-249",
+   "desc": "Slide",
+   "price_eur": 6.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "102-250",
+   "desc": "Plastic Gland",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "22"
+   ]
+  },
+  {
+   "pn": "12-C010",
+   "desc": "CHOKE LEVER",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138190002",
+   "desc": "BEARING, CRANKCASE-S",
+   "price_eur": 9.42,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE",
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "2",
+    "3"
+   ],
+   "price_varies": true,
+   "prices": [
+    9.42,
+    11.59
+   ]
+  },
+  {
+   "pn": "138190003",
+   "desc": "OIL SEAL-S",
+   "price_eur": 4.35,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE",
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "3",
+    "7"
+   ]
+  },
+  {
+   "pn": "138190004",
+   "desc": "WASHER, DRAIN PLUG-S",
+   "price_eur": 0.87,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138190005",
+   "desc": "BOLT, DRAIN PLUG-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138190013",
+   "desc": "TAPPET, VALVE-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "138190015",
+   "desc": "FLANGE BOLT M8*30-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "138190016",
+   "desc": "DOWEL PIN BUSHING, CRANKCASE-S",
+   "price_eur": 0.72,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "138190017",
+   "desc": "GASKET, CRANKCASE-S",
+   "price_eur": 3.62,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "138190018",
+   "desc": "CRANKCASE COVER-S",
+   "price_eur": 21.73,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138190019",
+   "desc": "OIL PLUG ASSEMBLY-S",
+   "price_eur": 2.9,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "138190020",
+   "desc": "DIPSTICK ASSEMBLY-S",
+   "price_eur": 2.9,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138190021",
+   "desc": "FLANGE BOLT M8*60-S",
+   "price_eur": 1.51,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138190022",
+   "desc": "PIN, DOWEL, CYLINDER HEAD-S",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "11",
+    "14"
+   ]
+  },
+  {
+   "pn": "138190030",
+   "desc": "ROCKER ARM SUPPORT-S",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138190031",
+   "desc": "PLATE, PUSH ROD GUIDE-S",
+   "price_eur": 1.81,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138190032",
+   "desc": "PUSH ROD-S",
+   "price_eur": 6.8,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "138190033",
+   "desc": "ROCKER ARM-S",
+   "price_eur": 6.8,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138190034",
+   "desc": "VALVE ADJUSTING NUT-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "138190035",
+   "desc": "VALVE LOCKING NUT-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "138190037",
+   "desc": "FLANGE BOLT M6*12-S",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD",
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "1",
+    "16"
+   ]
+  },
+  {
+   "pn": "138190038",
+   "desc": "GASKET, VALVE COVER-S",
+   "price_eur": 6.05,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138190042",
+   "desc": "NUT, M14-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138190047",
+   "desc": "KILL SWITCH-S",
+   "price_eur": 3.78,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "138190054",
+   "desc": "FLANGE NUT, M6 - S",
+   "price_eur": 0.75,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "138190055",
+   "desc": "FUEL lINE CLIP-S",
+   "price_eur": 0.76,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "138190056",
+   "desc": "STUD, EXHAUST MANIFOLD-S",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "8",
+    "9"
+   ]
+  },
+  {
+   "pn": "138190057",
+   "desc": "EXHAUST NUT-S",
+   "price_eur": 2.08,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "4",
+    "N/A"
+   ],
+   "price_varies": true,
+   "prices": [
+    2.08,
+    2.17
+   ]
+  },
+  {
+   "pn": "138190058",
+   "desc": "GASKET, EXHAUST-S",
+   "price_eur": 1.39,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "1",
+    "N/A"
+   ],
+   "price_varies": true,
+   "prices": [
+    1.39,
+    1.45
+   ]
+  },
+  {
+   "pn": "138190060",
+   "desc": "FLANGE BOLT 5/16*20-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "138190088",
+   "desc": "VALVE COVER-S",
+   "price_eur": 14.36,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "138190092",
+   "desc": "FUEL LINE-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "138190093",
+   "desc": "FUEL LINE PROTECTIVE SLEEVE-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "138190096",
+   "desc": "TUBE, BREATHER-S",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138210101",
+   "desc": "VALVE, INTAKE-S",
+   "price_eur": 6.05,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138210102",
+   "desc": "VALVE, EXHAUST-S",
+   "price_eur": 6.05,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "138210103",
+   "desc": "RETAINER, VALVE SPRING-S",
+   "price_eur": 4.54,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "138210104",
+   "desc": "VALVE COLLET-S",
+   "price_eur": 4.54,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "138210107",
+   "desc": "CRANKSHAFT ASSEMBLY-S",
+   "price_eur": 65.2,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "138210112",
+   "desc": "VALVE SEAL-S",
+   "price_eur": 5.29,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "138210125",
+   "desc": "AIR LEADING COVER-S",
+   "price_eur": 9.07,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "13",
+    "16"
+   ]
+  },
+  {
+   "pn": "138210144",
+   "desc": "VALVE, INTAKE 2025",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138210145",
+   "desc": "VALVE, EXHAUST 2025",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "138220002",
+   "desc": "CRANKCASE ASSEMBLY-S",
+   "price_eur": 130.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "138220004",
+   "desc": "PISTON-S",
+   "price_eur": 20.29,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "138220005",
+   "desc": "RING SET, PISTON-S",
+   "price_eur": 10.14,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138220006",
+   "desc": "PISTON PIN-S",
+   "price_eur": 5.8,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "138220007",
+   "desc": "PVL IGNITION COIL, 6500rpm.-S",
+   "price_eur": 156.45,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138220008",
+   "desc": "CIRCLIP, PISTON PIN-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "138220014",
+   "desc": "FLANGE BOLT M6*16-S",
+   "price_eur": 1.39,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD",
+    "10. EXHAUST"
+   ],
+   "items": [
+    "12",
+    "15",
+    "6"
+   ],
+   "price_varies": true,
+   "prices": [
+    1.39,
+    1.51
+   ]
+  },
+  {
+   "pn": "138220017",
+   "desc": "HALF-SLEEVE BEARING-S",
+   "price_eur": 4.35,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138220018",
+   "desc": "FLYWHEEL ASSEMBLY-S",
+   "price_eur": 214.2,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "138220019",
+   "desc": "IGNITION COIL STOP WIRE-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138220020",
+   "desc": "STYLE 1 HEXAGON NUT,M6 INTAKE STUD",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138220021",
+   "desc": "SPRING WASHER GB 93-87 8-S",
+   "price_eur": 1.39,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "3",
+    "N/A"
+   ],
+   "price_varies": true,
+   "prices": [
+    1.39,
+    1.45
+   ]
+  },
+  {
+   "pn": "138220022",
+   "desc": "HEXAGON SOCKET HEAD CAP SCREW M6*12-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "138220023",
+   "desc": "HEXAGON SOCKET HEAD CAP SCREW 3/16 *20-S",
+   "price_eur": 2.27,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "138220025",
+   "desc": "SPACER-TOP MOUNTING PLATE",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "138220026",
+   "desc": "HEXAGON SOCKET HEAD CAP SCREW M6*20-S",
+   "price_eur": 2.17,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "138220027",
+   "desc": "SPACER, SILENCER BRACKET-S",
+   "price_eur": 1.39,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138220029",
+   "desc": "VALVE SPRING (26LBS)-S",
+   "price_eur": 6.05,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "138220030",
+   "desc": "CYLINDER HEAD GASKET-S",
+   "price_eur": 6.05,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "138220033",
+   "desc": "STUD, INTAKE MANIFOLD-S",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "10",
+    "9"
+   ]
+  },
+  {
+   "pn": "138220034",
+   "desc": "INTAKE MANIFOLD ASSEMBLY WITH ADAPTER PLATE",
+   "price_eur": 52.16,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "138220040",
+   "desc": "STARTER PULLEY CUP(47mm)-S",
+   "price_eur": 6.05,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "138220045",
+   "desc": "COMPELTED CONNECTING ROD ASSEMBLY-S",
+   "price_eur": 114.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138220046",
+   "desc": "GASKET SET TPP225RS",
+   "price_eur": 13.61,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "11. AUX. PARTS"
+   ],
+   "items": [
+    "1",
+    "N/A"
+   ]
+  },
+  {
+   "pn": "138220047",
+   "desc": "PISTON, PIN, RING, CLIP ASSEMBLY",
+   "price_eur": 36.22,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "138220050",
+   "desc": "COMPLETE CYLINDER HEAD ASSEMBLY TPP225RS (INC VALVES, SPRINGS, RETAINERS ETC)",
+   "price_eur": 72.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "7",
+    "8"
+   ],
+   "price_varies": true,
+   "prices": [
+    72.5,
+    72.58
+   ]
+  },
+  {
+   "pn": "138220053",
+   "desc": "STICKER, TOP MOUNTING PLATE-S",
+   "price_eur": 11.59,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "138220055",
+   "desc": "HOSE CLAMP(21-38)-S",
+   "price_eur": 1.66,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "138220056",
+   "desc": "FLANGE BOLT M8*50(WITH HOLE)-S",
+   "price_eur": 1.45,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138220058",
+   "desc": "STARTER HANDLE",
+   "price_eur": 6.8,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "138220061",
+   "desc": "BLOWER HOUSING ONLY (BLACK)",
+   "price_eur": 13.61,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "138220063",
+   "desc": "FLYWHEEL ADAPTOR-2020",
+   "price_eur": 26.46,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "138220066",
+   "desc": "STARTER RECOIL ONLY (BLACK)",
+   "price_eur": 14.36,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "138220069",
+   "desc": "STARTER ASSY, PULL(black)-S",
+   "price_eur": 26.46,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "138220073",
+   "desc": "SPRING WASHER, M6 INTAKE STUD",
+   "price_eur": 7.56,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138220074",
+   "desc": "CONNECTING ROD ASSEMBLY FORGED INC. BOLTS",
+   "price_eur": 108.67,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "138220075",
+   "desc": "TOP MOUNTING PLATE ASSEMBLY",
+   "price_eur": 17.39,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "138220077",
+   "desc": "EXHAUST WRAP-S",
+   "price_eur": 9.7,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "138220078",
+   "desc": "R TYPE FUEL LINE CLAMP 25MM",
+   "price_eur": 4.54,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "138220079",
+   "desc": "PLAIN WASHER GB/T 97.1 4-S",
+   "price_eur": 0.72,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138220081",
+   "desc": "R TYPE FUEL LINE CLAMP 20MM",
+   "price_eur": 4.54,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "138220082",
+   "desc": "NYLON SPACER",
+   "price_eur": 4.64,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "138220083",
+   "desc": "HOUR METER SHIELD SLEEVING",
+   "price_eur": 2.17,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "138220084",
+   "desc": "HEAT SHRINKAGE SLEEVING",
+   "price_eur": 2.17,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "138220085",
+   "desc": "HOUR METER",
+   "price_eur": 13.04,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "138220090",
+   "desc": "CLUTCH GUARD-S",
+   "price_eur": 30.43,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "4. CRANKCASE COVER-CLUTCH GUARD",
+    "4. CRANKCASE COVER-CLUTCH-GUARD"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "138220092",
+   "desc": "BOLT, CONNECTING ROD-S (FORGED ROD)",
+   "price_eur": 2.9,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "3. CRANKSHAFT-ROD-PISTON"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138220095",
+   "desc": "PVL IGNITION COIL, 7500rpm.-S",
+   "price_eur": 156.45,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138220096",
+   "desc": "CAMSHAFT ASSEMBLY-S",
+   "price_eur": 30.24,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "7. VALVE TRAIN & CAMSHAFT",
+    "7. VALVE-CAMSHAFT"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "138220097",
+   "desc": "GASKET, INTAKE MANIFOLD-S",
+   "price_eur": 1.81,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "138220098",
+   "desc": "COMPLETE CYLINDER HEAD ASSEMBLY TPP225RS-02 (INC VALVES, SPRINGS, RETAINERS ETC)",
+   "price_eur": 79.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "138220101",
+   "desc": "CYLINDER HEAD GASKET 225RS-02 COPPER MULTI LAYER-S",
+   "price_eur": 14.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "138220102",
+   "desc": "PVL IGNITION COIL, 6000rpm - T4 MINI",
+   "price_eur": 156.45,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "138220103",
+   "desc": "GASKET, VALVE COVER 2025 OPTION PART",
+   "price_eur": 5.4,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "138220107",
+   "desc": "GASKET SET TPP225RS-02",
+   "price_eur": 24.6,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "11. AUX. PARTS"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "138220108",
+   "desc": "STUD BOLT 1, M8×84-S",
+   "price_eur": 3.25,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "138220109",
+   "desc": "STUD BOLT 2, M8×84-S",
+   "price_eur": 3.25,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "138220110",
+   "desc": "CYLINDER HEAD NUT M8-S",
+   "price_eur": 2.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "138220111",
+   "desc": "CYLINDER HEAD WASHER-S",
+   "price_eur": 1.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "15-C146",
+   "desc": "THROTTLE CABLE SLEEVE THREADED",
+   "price_eur": 10.58,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "51"
+   ]
+  },
+  {
+   "pn": "15-C147",
+   "desc": "CHOKE LEVER SCREW",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "37"
+   ]
+  },
+  {
+   "pn": "15-C148",
+   "desc": "FLOAT BOWL DRAIN SCREW",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "28"
+   ]
+  },
+  {
+   "pn": "15-C149",
+   "desc": "IDLE SPEED SCREW",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "21"
+   ]
+  },
+  {
+   "pn": "15-C150",
+   "desc": "FLOAT BOWL MOUNT SCREW M4*10",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "38"
+   ]
+  },
+  {
+   "pn": "15-C151",
+   "desc": "M3*6 Half-hollowed screw",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "15-C152",
+   "desc": "M5*10Screw",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "15-C153",
+   "desc": "Idle adjusting screw",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "29"
+   ]
+  },
+  {
+   "pn": "15-C154",
+   "desc": "Plunger adjusting screw",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "31"
+   ]
+  },
+  {
+   "pn": "15-C155",
+   "desc": "Drain screw",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "44"
+   ]
+  },
+  {
+   "pn": "15-C156",
+   "desc": "M4*14Screw",
+   "price_eur": 2.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "48"
+   ]
+  },
+  {
+   "pn": "15-C37",
+   "desc": "CARBURETOR MOUNTING BOLTS, M6 x 16mm",
+   "price_eur": 1.89,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "154-267",
+   "desc": "EMULSION TUBE",
+   "price_eur": 4.89,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "20"
+   ]
+  },
+  {
+   "pn": "16-B519",
+   "desc": "FLOAT BOWL GASKET",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "16-B521",
+   "desc": "Flange ring",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "23"
+   ]
+  },
+  {
+   "pn": "16-B522",
+   "desc": "Bowl Gasket",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "42"
+   ]
+  },
+  {
+   "pn": "16-B523",
+   "desc": "Drain Screw Seal Ring",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "45"
+   ]
+  },
+  {
+   "pn": "24-C265",
+   "desc": "Needle pressure spring",
+   "price_eur": 2.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "24-C360",
+   "desc": "PLUNGER NEEDLE RETAINING CLIP",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "24-C361",
+   "desc": "SLIDE / THROTTLE RETURN SPRING",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "24-C362",
+   "desc": "CHOKE RETURN SPRING",
+   "price_eur": 1.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "36"
+   ]
+  },
+  {
+   "pn": "24-C363",
+   "desc": "IDLE SPEED SCREW SPRING",
+   "price_eur": 1.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "41"
+   ]
+  },
+  {
+   "pn": "24-C364",
+   "desc": "IDLE AIR/FUEL SCREW SPRING",
+   "price_eur": 1.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "30"
+   ]
+  },
+  {
+   "pn": "24-C366",
+   "desc": "Plunger spring",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "24-C367",
+   "desc": "Choke Shaft torsion spring",
+   "price_eur": 2.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "24-C368",
+   "desc": "Idle adjusting screw spring",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "28"
+   ]
+  },
+  {
+   "pn": "24-C369",
+   "desc": "Plunger adjusting screw spring",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "30"
+   ]
+  },
+  {
+   "pn": "25-A27",
+   "desc": "Choke panel",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "20"
+   ]
+  },
+  {
+   "pn": "25-A28",
+   "desc": "Choke arm",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "21"
+   ]
+  },
+  {
+   "pn": "26-A256",
+   "desc": "Choke shaft",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "27-395",
+   "desc": "Choke flap",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "28-187",
+   "desc": "Cable Bend",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "29-254",
+   "desc": "FLOAT LEVER",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "29-258",
+   "desc": "Φ1.5 open Retaining ring",
+   "price_eur": 5.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "29-259",
+   "desc": "Tubing clip",
+   "price_eur": 2.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "25"
+   ]
+  },
+  {
+   "pn": "29-261",
+   "desc": "PLUNGER NEEDLE CIRCLIP",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "45"
+   ]
+  },
+  {
+   "pn": "30-785",
+   "desc": "FLOAT ASSEMBLY",
+   "price_eur": 4.07,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "40"
+   ]
+  },
+  {
+   "pn": "30-787",
+   "desc": "Float sub-assembly",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "39"
+   ]
+  },
+  {
+   "pn": "34-242",
+   "desc": "INLET NEEDLE",
+   "price_eur": 3.26,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "39"
+   ]
+  },
+  {
+   "pn": "34-542",
+   "desc": "CHOKE PLUNGER",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "34-543",
+   "desc": "Oil Needle",
+   "price_eur": 5.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "34-544",
+   "desc": "Inlet valve needle",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "37"
+   ]
+  },
+  {
+   "pn": "34-550",
+   "desc": "NEEDLE",
+   "price_eur": 7.33,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "46"
+   ]
+  },
+  {
+   "pn": "361-547",
+   "desc": "INLET SEAT",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "401267",
+   "desc": "SPARK PLUG CONNECTOR BLUE",
+   "price_eur": 34.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "43-1050",
+   "desc": "IDLE AIR/FUEL SCREW",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "42"
+   ]
+  },
+  {
+   "pn": "44-390",
+   "desc": "EMULSION TUBE O-RING",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "31"
+   ]
+  },
+  {
+   "pn": "44-392",
+   "desc": "FUEL NEEDLE GASKET",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "47"
+   ]
+  },
+  {
+   "pn": "44-393",
+   "desc": "IDLE SPEED SCREW O-RING",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "22"
+   ]
+  },
+  {
+   "pn": "44-394",
+   "desc": "ADJ. SCREW WASHER",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "23"
+   ]
+  },
+  {
+   "pn": "44-395",
+   "desc": "IDLE AIR/FUEL SCREW O-RING",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "29"
+   ]
+  },
+  {
+   "pn": "44-396",
+   "desc": "Upper cover gasket",
+   "price_eur": 12.07,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "44-397",
+   "desc": "Flat gasket",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "44-398",
+   "desc": "O-ring",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "26"
+   ]
+  },
+  {
+   "pn": "44-399",
+   "desc": "Flat gasket",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "27"
+   ]
+  },
+  {
+   "pn": "44-402",
+   "desc": "INTAKE O RING",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "43"
+   ]
+  },
+  {
+   "pn": "47-A290",
+   "desc": "MAIN NOZZLE",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "47-A291",
+   "desc": "Main nozzle",
+   "price_eur": 6.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "33"
+   ]
+  },
+  {
+   "pn": "47-A292",
+   "desc": "Inlet seat",
+   "price_eur": 5.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "36"
+   ]
+  },
+  {
+   "pn": "49-B137",
+   "desc": "MAIN JET 115",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "49-B138",
+   "desc": "MAIN JET 110",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "49-B139",
+   "desc": "MAIN JET 125",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "49-B140",
+   "desc": "PILOT JET SIZE 33",
+   "price_eur": 4.89,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "12. CARB. PARTS FM22-1A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "18",
+    "32"
+   ]
+  },
+  {
+   "pn": "49-B141",
+   "desc": "MAIN JET 120",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "49-B146",
+   "desc": "MAIN JET 105",
+   "price_eur": 6.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "49-B148",
+   "desc": "MAIN AIR JET",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "25"
+   ]
+  },
+  {
+   "pn": "49-B149",
+   "desc": "IDLE AIR JET",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "26"
+   ]
+  },
+  {
+   "pn": "49-B212",
+   "desc": "Main jet 86",
+   "price_eur": 5.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "35"
+   ]
+  },
+  {
+   "pn": "62-A219",
+   "desc": "Float shaft",
+   "price_eur": 4.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "38"
+   ]
+  },
+  {
+   "pn": "62-A220",
+   "desc": "Locating Pin",
+   "price_eur": 3.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "40"
+   ]
+  },
+  {
+   "pn": "65-755",
+   "desc": "FLOAT BOWL ASSEMBLY",
+   "price_eur": 9.77,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "52"
+   ]
+  },
+  {
+   "pn": "68-371",
+   "desc": "ELBOW CONNECTOR",
+   "price_eur": 2.35,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "48"
+   ]
+  },
+  {
+   "pn": "78-A375",
+   "desc": "CHOKE LEVER CRINKLE WASHER",
+   "price_eur": 1.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "80-415",
+   "desc": "CHOKE PLUNGER STOP PLATE",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "80-416",
+   "desc": "CHOKE PLUNGER GUIDE PLATE",
+   "price_eur": 1.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "80-417",
+   "desc": "CHOKE PLUNGER DUST CAP",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "80-418",
+   "desc": "CHOKE INTAKE JET",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "27"
+   ]
+  },
+  {
+   "pn": "80-419",
+   "desc": "Oiling Cap",
+   "price_eur": 2.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "81-832",
+   "desc": "CABLE GUIDE NUT M6*0.75",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "35"
+   ]
+  },
+  {
+   "pn": "81-833",
+   "desc": "CHOKE PLUNGER RETAINING NUT",
+   "price_eur": 1.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "813-29",
+   "desc": "FUEL INLET CONNECTOR",
+   "price_eur": 0.98,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "33"
+   ]
+  },
+  {
+   "pn": "813-32",
+   "desc": "Feed Pipe",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "18"
+   ]
+  },
+  {
+   "pn": "813-33",
+   "desc": "Balance Hose",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "24"
+   ]
+  },
+  {
+   "pn": "813-34",
+   "desc": "Emulsion Tube",
+   "price_eur": 4.02,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "34"
+   ]
+  },
+  {
+   "pn": "813-35",
+   "desc": "Oil Spill Pipe",
+   "price_eur": 2.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "43"
+   ]
+  },
+  {
+   "pn": "813-36",
+   "desc": "Oil Spill nozzle",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "46"
+   ]
+  },
+  {
+   "pn": "813-37",
+   "desc": "Drain Hose",
+   "price_eur": 1.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "47"
+   ]
+  },
+  {
+   "pn": "813-42",
+   "desc": "VENT TUBE",
+   "price_eur": 2.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "49"
+   ]
+  },
+  {
+   "pn": "83-A52",
+   "desc": "SLIDE PIN GUIDE",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "32"
+   ]
+  },
+  {
+   "pn": "91-1038",
+   "desc": "TOP CAP ASSEMBLY",
+   "price_eur": 7.49,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "44"
+   ]
+  },
+  {
+   "pn": "91-B428",
+   "desc": "DUST COVER",
+   "price_eur": 0.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "24"
+   ]
+  },
+  {
+   "pn": "91-B429",
+   "desc": "Upper cover",
+   "price_eur": 6.04,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "91-B430",
+   "desc": "Dust Cover",
+   "price_eur": 1.01,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "41"
+   ]
+  },
+  {
+   "pn": "91-B432",
+   "desc": "Lower cover",
+   "price_eur": 6.04,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB-FM19-2A",
+    "13. CARB PARTS FM19-2A"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "E3-96R-8",
+   "desc": "SPARK PLUG, E3 96R-8",
+   "price_eur": 11.78,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "6",
+    "7"
+   ]
+  },
+  {
+   "pn": "FM19-2A",
+   "desc": "CARBURETOR JUNIOR, FM19-2A",
+   "price_eur": 122.44,
+   "models": [
+    "mini",
+    "junior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "FM22-1A",
+   "desc": "CARBURETOR SENIOR, FM22-1A",
+   "price_eur": 127.76,
+   "models": [
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "FP-10A",
+   "desc": "FUEL PUMP",
+   "price_eur": 17.39,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "FS-1P",
+   "desc": "FUEL STRAINER PCK.",
+   "price_eur": 14.36,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "RK-1FM",
+   "desc": "Repair Kit FM22-1A / FM22-2A / FM22-3A",
+   "price_eur": 9.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": []
+  },
+  {
+   "pn": "T-ACC-CLAMP",
+   "desc": "2 SCREWS CLAMP ACCELERATOR WIRE",
+   "price_eur": 3.73,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "14. PEDALS"
+   ],
+   "items": [
+    "58",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-ACC-SRSM0630",
+   "desc": "SHEATH REGISTER SCREW M6x30MM",
+   "price_eur": 2.16,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-ACC-WIRE",
+   "desc": "ACCELERATOR WIRE 1.2X2000MM SWEDISH TYPE",
+   "price_eur": 5.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "14. PEDALS"
+   ],
+   "items": [
+    "5",
+    "57"
+   ]
+  },
+  {
+   "pn": "T-AIRFILTER-01",
+   "desc": "AIR FILTER GREEN T4 SERIES",
+   "price_eur": 35.4,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-AIRFILTER-SHIELD-FM22",
+   "desc": "Rain Shield FM22",
+   "price_eur": 30.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-AXL-30D980M",
+   "desc": "Tillotson axle 30x5x980mm Mod.M",
+   "price_eur": 114.45,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "6. AXLES"
+   ],
+   "items": [
+    "1",
+    "40"
+   ]
+  },
+  {
+   "pn": "T-AXL-50A1030M",
+   "desc": "TILLOTSON AXLE Ø50x2x1030MM",
+   "price_eur": 151.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "6. AXLES"
+   ],
+   "items": [
+    "1",
+    "43"
+   ]
+  },
+  {
+   "pn": "T-AXL-BBSUP62",
+   "desc": "BEARING BUSH SUPPORT Ø62MM for Ø30mm axle INOX - TILLOTSON",
+   "price_eur": 55.16,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "7. BEARINGS & SUPPORTS"
+   ],
+   "items": [
+    "2",
+    "41"
+   ]
+  },
+  {
+   "pn": "T-AXL-BRG3062",
+   "desc": "BEARING Ø30X62MM with 3 pins for Ø30mm axle",
+   "price_eur": 23.79,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "7. BEARINGS & SUPPORTS"
+   ],
+   "items": [
+    "1",
+    "42"
+   ]
+  },
+  {
+   "pn": "T-AXL-GRUBS",
+   "desc": "PIN M8x8MM",
+   "price_eur": 0.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "6. AXLES"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-AXL-GRUBS0601-MK",
+   "desc": "Pin M6X1mm L.10mm knurled",
+   "price_eur": 0.63,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "6. AXLES"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-AXL-KEY2P",
+   "desc": "AXLE KEY 2 PIVOT",
+   "price_eur": 4.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "6. AXLES"
+   ],
+   "items": [
+    "2",
+    "42"
+   ],
+   "price_varies": true,
+   "prices": [
+    4.81,
+    6.5
+   ]
+  },
+  {
+   "pn": "T-AXL-KEY6660",
+   "desc": "AXLE KEY 6X6X60MM",
+   "price_eur": 1.95,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "6. AXLES"
+   ],
+   "items": [
+    "2",
+    "44"
+   ]
+  },
+  {
+   "pn": "T-AXL-KEY6680",
+   "desc": "AXLE KEY 6X6X80MM",
+   "price_eur": 1.95,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "6. AXLES"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-AXL-SUPSPT30",
+   "desc": "SPROCKET SUPPORT FOR Ø30MM AXLE with screws INOX - TILLOTSON",
+   "price_eur": 85.44,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "2",
+    "43"
+   ]
+  },
+  {
+   "pn": "T-BRG-5080",
+   "desc": "BEARING DIA 50X80mm WITH PINS FOR DIA 50mm AXLE",
+   "price_eur": 27.04,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "7. BEARINGS & SUPPORTS"
+   ],
+   "items": [
+    "1",
+    "45"
+   ]
+  },
+  {
+   "pn": "T-BRK-CAL",
+   "desc": "TILLOTSON  REAR BRAKE CALIPER ANOD.INOX with pads and screws",
+   "price_eur": 177.37,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-BRK-CAL-MKBV2",
+   "desc": "STR-V2 BRAKE CALIPER - MKB-V2 REAR with pads and screws INOX - TILLOTSON",
+   "price_eur": 242.26,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALCAP",
+   "desc": "BRAKE CALIPER CAP Ø28MM",
+   "price_eur": 11.79,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALCAP19",
+   "desc": "BRAKE CALIPER CAP Ø19MM",
+   "price_eur": 11.25,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALPIST",
+   "desc": "RBS-V2 BRAKE CALIPER PISTON Ø28MM",
+   "price_eur": 13.52,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALPN0520",
+   "desc": "PIN Ø5x20MM",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALPS19",
+   "desc": "BRAKE CALIPER PISTON Ø19MM",
+   "price_eur": 12.38,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALREV-MKBV2",
+   "desc": "STR.V2 / MKB.V2 BRAKE CALIPER REVISION KIT (for 1 caliper)",
+   "price_eur": 63.81,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "K"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALSUP",
+   "desc": "TILLOTSON REAR BRAKE CALIPER SUPPORT ANOD. INOX",
+   "price_eur": 80.03,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-BRK-CALSUP-MKBV2",
+   "desc": "MKB-V2 REAR BRAKE CALIPER SUPPORT ANODIZED INOX - TILLOTSON",
+   "price_eur": 58.4,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-BRK-CLIP3.2",
+   "desc": "SEEGER Ø3,2MM",
+   "price_eur": 0.26,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "12",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISC",
+   "desc": "BLACK LINE REAR BRAKE DISC",
+   "price_eur": 151.2,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISC-MK",
+   "desc": "STR-V2 front brake disc - MKB.V2 post.",
+   "price_eur": 157.9,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISCHUBSUP-MK",
+   "desc": "MKB-V2 Ø30mm rear brake disc hub support",
+   "price_eur": 128.7,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISCMS",
+   "desc": "BLACK LINE BRAKE DISC MOUNTING SCREWS (6 pieces for each components)",
+   "price_eur": 21.63,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISCMS-MK",
+   "desc": "STR-V1 - MKB-V1 disc screws  3pc per1 Item",
+   "price_eur": 55.7,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISCSUP",
+   "desc": "TILLOTSON REAR DISC SUPPORT Ø50MM ANOD.INOX",
+   "price_eur": 76.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "T-BRK-DISCSUP-MK",
+   "desc": "MKB Rear brake disc supp. with screw",
+   "price_eur": 52.99,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "T-BRK-FPINM0606",
+   "desc": "FLAT PIN M6x6MM",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "T-BRK-IPGAS",
+   "desc": "BRAKE PUMP INNER GASKET",
+   "price_eur": 4.43,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-BRK-IPGASSUP",
+   "desc": "BRAKE PUMP INNER GASKET SUPPORT",
+   "price_eur": 27.04,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-BRK-ORING",
+   "desc": "O-RING Ø28MM",
+   "price_eur": 0.41,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-BRK-ORING19",
+   "desc": "O-RING Ø19MM",
+   "price_eur": 0.3,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-BRK-OS19",
+   "desc": "OIL SEAL RUBBER Ø19MM",
+   "price_eur": 0.84,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-BRK-PAD01-MK",
+   "desc": "STR-V1 front brake pads black 10pc PK",
+   "price_eur": 21.04,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-BRK-PAD02-MK",
+   "desc": "STR-V2 FRONT BRAKE PAD BLACK",
+   "price_eur": 21.04,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-BRK-PADB",
+   "desc": "R1 REAR BRAKE PAD BLUE",
+   "price_eur": 17.2,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-BRK-PDCAP",
+   "desc": "BRAKE PUMP OUTSIDE DUSTY CAP",
+   "price_eur": 4.43,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "T-BRK-PIPE",
+   "desc": "REAR BRAKE PIPE BLACK LINE",
+   "price_eur": 56.7,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-BRK-PIPEWV3",
+   "desc": "MKB-V2/V3 REAR BRAKE PIPE WHITE",
+   "price_eur": 63.81,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-BRK-PMP19REV",
+   "desc": "Ø19mm BRAKE PUMP REVISION KIT",
+   "price_eur": 36.77,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "K"
+   ]
+  },
+  {
+   "pn": "T-BRK-PUMCAP",
+   "desc": "TILLOTSON BRAKE PUMP CAP ANOD.INOX",
+   "price_eur": 20.55,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-BRK-PUMLEV",
+   "desc": "BRAKE PUMP LEVER",
+   "price_eur": 16.22,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-BRK-PUMP",
+   "desc": "TILLOTSON BRAKE PUMP Ø19MM ANOD. INOX",
+   "price_eur": 135.19,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "1",
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-BRK-PUMPIS",
+   "desc": "BRAKE PUMP PISTON Ø19MM",
+   "price_eur": 13.84,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-BRK-PUMSPR",
+   "desc": "BRAKE PUMP SPRING Ø19MM",
+   "price_eur": 2.16,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-BRK-SAFPIN",
+   "desc": "R1 BRAKE PAD SAFETY PIN",
+   "price_eur": 4.43,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-BRK-SAFPIN-MKBV2",
+   "desc": "STR-V1 BRAKE PAD SAFETY PIN",
+   "price_eur": 4.44,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-BRK-SCGASK",
+   "desc": "SQUARE SECTION GASKET Ø28X34MM",
+   "price_eur": 0.91,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-BRK-SFTCBL",
+   "desc": "Brake Safety Cable with Clamp",
+   "price_eur": 16.22,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "2",
+    "23"
+   ]
+  },
+  {
+   "pn": "T-BRK-SQGAS1925",
+   "desc": "SQUARE SECTION GASKET Ø19x25MM",
+   "price_eur": 0.84,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-BRK-SYS30-V2",
+   "desc": "MKB-V2 REAR BRAKE SYSTEM (with 30 mm brake disc support)INOX - TILLOTSON",
+   "price_eur": 723.52,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "24",
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-BRK-SYS50",
+   "desc": "REAR BRAKE SYSTEM (with 50mm brake support)",
+   "price_eur": 647.82,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "24",
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-BRK-TIE410",
+   "desc": "BRAKE PUMP TIE ROD M6X410mm CHROMED",
+   "price_eur": 10.81,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "1",
+    "22"
+   ]
+  },
+  {
+   "pn": "T-BRK-TIEROD270",
+   "desc": "BRAKE TIE ROD M6X270MM CHROMED",
+   "price_eur": 10.81,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "1",
+    "22"
+   ]
+  },
+  {
+   "pn": "T-BRK-TOCM10",
+   "desc": "THREADED OIL CAP M10",
+   "price_eur": 1.62,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "13",
+    "3"
+   ]
+  },
+  {
+   "pn": "T-BRK-TRDFRK",
+   "desc": "TIE ROD FORK Ø6x24MM",
+   "price_eur": 2.7,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-BRM-FCLI1",
+   "desc": "Front bumper clip",
+   "price_eur": 14.6,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "25",
+    "28",
+    "3",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-CARB-SLIDE-JR1",
+   "desc": "Restricted Slide Length 49.15mm",
+   "price_eur": 14.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "T-CARB-SLIDE-JR2",
+   "desc": "Restricted Slide Length 47.15mm 2023",
+   "price_eur": 14.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "T-CARB-SLIDE-SNR1",
+   "desc": "SLIDE SENIOR T4 37.15MM",
+   "price_eur": 14.75,
+   "models": [
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "12. CARB. PARTS FM22-1A"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "T-CHA-112",
+   "desc": "T Series chain 112 length",
+   "price_eur": 33.48,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "58"
+   ]
+  },
+  {
+   "pn": "T-CHA-114",
+   "desc": "T Series chain 114 length",
+   "price_eur": 33.48,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "55",
+    "63"
+   ],
+   "price_varies": true,
+   "prices": [
+    33.48,
+    34.0
+   ]
+  },
+  {
+   "pn": "T-CHN-GRDSUP-MK",
+   "desc": "TLT mini chainguard support kit + screws",
+   "price_eur": 54.05,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "4",
+    "45/B"
+   ]
+  },
+  {
+   "pn": "T-CHN-GRDSUPP",
+   "desc": "TILLOTSON CHAINGUARD SUPPORT KIT with screws",
+   "price_eur": 54.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "4",
+    "61"
+   ]
+  },
+  {
+   "pn": "T-CHN-GUARD2",
+   "desc": "TILLOTSON CHAINGUARD",
+   "price_eur": 84.61,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "3",
+    "45/A",
+    "62"
+   ]
+  },
+  {
+   "pn": "T-CHN-SCR1",
+   "desc": "CHAIN TENSIONER SCREW WITH NUT AND NYLON CAP",
+   "price_eur": 27.04,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "20. ENGINE MOUNT"
+   ],
+   "items": [
+    "3",
+    "49"
+   ]
+  },
+  {
+   "pn": "T-CHN-SCR2-MK",
+   "desc": "LONG CHAIN STRETCHER SCREW COMPLETE for Minikart",
+   "price_eur": 27.04,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "19. ENGINE MOUNTS"
+   ],
+   "items": [
+    "3",
+    "46"
+   ]
+  },
+  {
+   "pn": "T-CHS-CS1",
+   "desc": "T4 JUNIOR/SENIOR ROLLING CHASSIS",
+   "price_eur": 3300.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CHS-FRA1",
+   "desc": "T4 SENIOR CHASSIS FRAME",
+   "price_eur": 1346.47,
+   "models": [
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CHS-FRAMK",
+   "desc": "Tillotson T4 Mini Frame",
+   "price_eur": 1130.17,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CHS-MK-CS2",
+   "desc": "T4 MINI ROLLING CHASSIS",
+   "price_eur": 2475.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-21T-01",
+   "desc": "NORAM CLUTCH, 21T",
+   "price_eur": 185.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-BOLT-01",
+   "desc": "CLUTCH MOUNTING BOLT",
+   "price_eur": 1.99,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH",
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-CLIP-01",
+   "desc": "DRUM RETAINING CIRCLIP",
+   "price_eur": 5.4,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-CLU-DRUM-21T",
+   "desc": "CLUTCH DRUM 21T",
+   "price_eur": 74.5,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-CLU-HUB-01",
+   "desc": "TPP225 RS - Clutch Hub Noram 4000 Series",
+   "price_eur": 75.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-19T-01",
+   "desc": "STINGER CLUTCH 19T",
+   "price_eur": 181.91,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-21T-01",
+   "desc": "STINGER CLUTCH 21T",
+   "price_eur": 181.91,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-BOLT-04",
+   "desc": "M5 Locking Bolt Stinger 2023 System",
+   "price_eur": 5.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-CLIP-01",
+   "desc": "RETAINING CIRCLIP",
+   "price_eur": 3.98,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-DRUM-01",
+   "desc": "DRUM",
+   "price_eur": 58.44,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-HUB-01",
+   "desc": "STINGER CLUTCH HUB",
+   "price_eur": 24.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-HUB-BRG-01",
+   "desc": "THRUST BEARING HUB",
+   "price_eur": 9.3,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-KEY-01",
+   "desc": "NORAM STINGER KEYWAY",
+   "price_eur": 4.24,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-NUT-01",
+   "desc": "M5 Torque Nut Stinger 2023 System",
+   "price_eur": 3.3,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-PLATE-INNER",
+   "desc": "STINGER HUB PLATE INSIDE",
+   "price_eur": 13.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-PLATE-OUTER",
+   "desc": "STINGER HUB PLATE OUTSIDE",
+   "price_eur": 13.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-RING-HUB-01",
+   "desc": "RETAINING RING HUB",
+   "price_eur": 3.98,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SHAFT-01",
+   "desc": "SHAFT",
+   "price_eur": 79.69,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SHOE-01",
+   "desc": "STINGER CLUTCH SHOE",
+   "price_eur": 14.17,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-17T",
+   "desc": "17T 219 F. SPROCKET WITH BEARING",
+   "price_eur": 45.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-18T",
+   "desc": "18T 219 F. SPROCKET WITH BEARING",
+   "price_eur": 45.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-19T",
+   "desc": "19T 219 F. SPROCKET WITH BEARING",
+   "price_eur": 45.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-20T",
+   "desc": "20T 219 F. SPROCKET WITH BEARING",
+   "price_eur": 45.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-21T",
+   "desc": "21T 219 F. SPROCKET WITH BEARING",
+   "price_eur": 45.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-22T",
+   "desc": "22T 219 F. SPROCKET WITH BEARING",
+   "price_eur": 45.74,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-BRG-01",
+   "desc": "STINGER SPROCKET BEARING",
+   "price_eur": 12.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-CLIP-01",
+   "desc": "SPROCKET CIRCLIP",
+   "price_eur": 5.31,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPK-WAS-01",
+   "desc": "SPROCKET WASHER",
+   "price_eur": 6.64,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPR-01",
+   "desc": "CLUTCH SPRING STINGER (BLUE)",
+   "price_eur": 9.3,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-SPR-02",
+   "desc": "CLUTCH SPRING STINGER (ORANGE)",
+   "price_eur": 9.3,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-CLU-NS-THR-SPA-01",
+   "desc": "STINGER THRUST SPACER",
+   "price_eur": 5.83,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. NORAM CLUTCH"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-CLU-PLT-01",
+   "desc": "Clutch Plate",
+   "price_eur": 10.75,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-PLT-NUT-01",
+   "desc": "Clutch Plate NUT - 4000S178 Clutch ------ vendor p/n: 2300025",
+   "price_eur": 3.25,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-PLT-SCR-01",
+   "desc": "Clutch Plate SCREW - 4000S178 Clutch ------ suupplier p/n: 4000045",
+   "price_eur": 4.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-SHOE-01",
+   "desc": "Clutch SHOE - 4000S178 Clutch ------ vendor p/n: 1200140",
+   "price_eur": 19.7,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-CLU-SPACER-01",
+   "desc": "CLUTCH MACHINED SPACER",
+   "price_eur": 11.62,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-SPACER-02",
+   "desc": "CLUTCH MACHINED SPACER 3MM/1MM 2023 VERSION",
+   "price_eur": 11.62,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-SPR-01",
+   "desc": "NORAM CLUTCH SPRING GREEN",
+   "price_eur": 9.3,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-CLU-SPR-02",
+   "desc": "NORAM CLUTCH SPRING BLUE",
+   "price_eur": 9.3,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-CLU-SPR-03",
+   "desc": "NORAM CLUTCH SPRING SILVER",
+   "price_eur": 9.3,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-CLU-WASH-01",
+   "desc": "CLUTCH WASHER",
+   "price_eur": 0.4,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-WASH-02",
+   "desc": "CLUTCH SPRING WASHER",
+   "price_eur": 0.4,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-WASH-03",
+   "desc": "Cutch Washer",
+   "price_eur": 0.4,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-CLU-WASH-04",
+   "desc": "Clutch Radius Washer T4 Mini",
+   "price_eur": 4.8,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-COOLDUCT-ASY-01",
+   "desc": "COOLDUCT ASSEMBLY COMPLETE WITH BRACKET / FITTING BOLTS",
+   "price_eur": 40.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-COOLDUCT-BODY",
+   "desc": "COOLDUCT PLASTIC BODY ONLY",
+   "price_eur": 26.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-COOLDUCT-BRK",
+   "desc": "COOLDUCT BRACKET ONLY",
+   "price_eur": 18.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "2. CRANKCASE"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-ENG-CLAMP",
+   "desc": "UNIVERSAL ENGINE BRACKET 92MM",
+   "price_eur": 23.79,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "19. ENGINE MOUNTS",
+    "20. ENGINE MOUNT"
+   ],
+   "items": [
+    "2",
+    "48",
+    "53"
+   ]
+  },
+  {
+   "pn": "T-ENG-MNT2",
+   "desc": "ALUMINIUM ENGINE MOUNT with screws and brakets",
+   "price_eur": 177.45,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "20. ENGINE MOUNT"
+   ],
+   "items": [
+    "1",
+    "47"
+   ]
+  },
+  {
+   "pn": "T-ENG-MNTMK",
+   "desc": "MINIKART TILLOTSON ALUMINIUM ENGINE MOUNT with screws",
+   "price_eur": 177.45,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "19. ENGINE MOUNTS"
+   ],
+   "items": [
+    "1",
+    "52"
+   ]
+  },
+  {
+   "pn": "T-EXH-001",
+   "desc": "EXHAUST SILENCER-USA VERSION",
+   "price_eur": 120.7,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-EXH-CRADLE-SPR-01",
+   "desc": "SILENCER HOLDER SPRING KIT",
+   "price_eur": 4.19,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-EXH-MAN-01",
+   "desc": "EXHAUST MANIFOLD",
+   "price_eur": 114.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-EXH-MANBKT-01",
+   "desc": "EXHUAST MANIFOLD SUPPORT BRACKET ASSEMBLY",
+   "price_eur": 24.26,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-EXH-MINI-01",
+   "desc": "EXHAUST SILENCER",
+   "price_eur": 194.25,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-EXH-SIL-01",
+   "desc": "EXHAUST SILENCER-EUR VERSION",
+   "price_eur": 159.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-EXH-SPRING-01",
+   "desc": "EXHAUST SPRING",
+   "price_eur": 2.08,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-EXT-SILHLD",
+   "desc": "Exhaust Bracket Kit 2pcs Mounting Bracket, 1pc Exhaust Bracket, Nuts & Washers",
+   "price_eur": 59.48,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "5",
+    "64"
+   ]
+  },
+  {
+   "pn": "T-FLEX-01",
+   "desc": "EXHAUST FLEX",
+   "price_eur": 17.79,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-FLY-KEY-01",
+   "desc": "Flywheel Keyway",
+   "price_eur": 3.96,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-FUELHOSE150",
+   "desc": "FUEL PIPE 1.5M Ø5X9MM",
+   "price_eur": 2.21,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "20. FUEL TANK",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-HEATSHIELD-196R-01",
+   "desc": "T-HEATSHIELD-196R-01",
+   "price_eur": 15.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "10. EXHAUST"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-HUB-BEAR254209",
+   "desc": "BEARING Ø25XØ42XH9MM",
+   "price_eur": 6.71,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "8. HUBS"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-HUB-BS252933",
+   "desc": "BEARINGS SPACER Ø25xØ29xH33MM",
+   "price_eur": 4.33,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "8. HUBS"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-HUB-FRT2590",
+   "desc": "FRONT HUB DIA 25XL90mm WITH BEARINGS",
+   "price_eur": 74.62,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "8. HUBS"
+   ],
+   "items": [
+    "2",
+    "28"
+   ]
+  },
+  {
+   "pn": "T-HUB-LW1430",
+   "desc": "HUB LOCKING WASHER D14XD30XH9mm GALVANISED WHITE",
+   "price_eur": 4.43,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "18",
+    "33"
+   ]
+  },
+  {
+   "pn": "T-HUB-RR3035",
+   "desc": "Rear Hub 30XL35mm INOX - Tillotson",
+   "price_eur": 68.25,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "8. HUBS"
+   ],
+   "items": [
+    "1",
+    "27"
+   ]
+  },
+  {
+   "pn": "T-HUB-RR5090",
+   "desc": "REAR HUB DIA 50XL90mm WITH SCREW",
+   "price_eur": 81.11,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "8. HUBS"
+   ],
+   "items": [
+    "1",
+    "27"
+   ]
+  },
+  {
+   "pn": "T-HUB-STUDM0836",
+   "desc": "SCREW STUD M8x36MM",
+   "price_eur": 1.1,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "8. HUBS"
+   ],
+   "items": [
+    "2",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-IMF-MK2",
+   "desc": "Intake Manifold T4 JUNIOR",
+   "price_eur": 83.32,
+   "models": [
+    "mini",
+    "junior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "8. CARB-AIR FILTER-PUMP",
+    "8. CARB-FILTER-PUMP"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-NAS-HPS-507",
+   "desc": "MOD. 508/507 HIGH NASSAU PANEL SUPPORT  KIT CHROMED (R+L)",
+   "price_eur": 33.6,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "11",
+    "19"
+   ]
+  },
+  {
+   "pn": "T-NAS-HPSMK",
+   "desc": "High Nassau Panel Support Chromed",
+   "price_eur": 23.79,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "T-NAS-HPSMK20",
+   "desc": "MK20 HIGH NASSAU PANEL SUPPORT CHROMED (2 pieces)",
+   "price_eur": 23.1,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "12",
+    "8"
+   ]
+  },
+  {
+   "pn": "T-NAS-HSPAN1",
+   "desc": "HIGH NASSAU PANEL SUPPORT CHROMED",
+   "price_eur": 36.77,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "T-NAS-LPS-MK20",
+   "desc": "MK20 LOW NASSAU PANEL SUPPORT CHROMED (2 pieces)",
+   "price_eur": 17.85,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "10",
+    "13",
+    "20",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-NAS-LPSMK",
+   "desc": "Low Nassau Panel Support Chromed",
+   "price_eur": 11.9,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "13",
+    "20"
+   ]
+  },
+  {
+   "pn": "T-NAS-MK20",
+   "desc": "Nassau panel mod.MK20 black",
+   "price_eur": 30.45,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "11",
+    "9"
+   ]
+  },
+  {
+   "pn": "T-NAS-NHMK14",
+   "desc": "Number Holder Mod.MK14 Black",
+   "price_eur": 28.12,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-NAS-PAN1",
+   "desc": "NASSAU PANEL MOD 506 BLACK",
+   "price_eur": 28.12,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "T-NAS-PAN2",
+   "desc": "NASSAU PANEL MOD.507 BLACK",
+   "price_eur": 33.6,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "17",
+    "8"
+   ]
+  },
+  {
+   "pn": "T-NAS-PINL12",
+   "desc": "SAFETY PIN L12MM",
+   "price_eur": 3.79,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "14",
+    "21"
+   ]
+  },
+  {
+   "pn": "T-NAS-RUB-01",
+   "desc": "NASSAU PANEL ANTIVIBRATION RUBBER",
+   "price_eur": 2.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "18",
+    "29"
+   ],
+   "price_varies": true,
+   "prices": [
+    2.0,
+    2.1
+   ]
+  },
+  {
+   "pn": "T-NAS-SAFPIN",
+   "desc": "NASSAU PANEL SAFETY SPLIT PIN",
+   "price_eur": 0.87,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "15",
+    "22"
+   ]
+  },
+  {
+   "pn": "T-NORAM-KEY-01",
+   "desc": "NORAM KEYWAY VERSION SHORT",
+   "price_eur": 3.98,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-NORAM-KEY-02",
+   "desc": "NORAM KEYWAY VERSION LONG 2021",
+   "price_eur": 4.65,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "5. CLUTCH"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-NUT-COPM8",
+   "desc": "NUT FLANGED METAL BLOCK COPPER M8",
+   "price_eur": 1.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "10. RIMS"
+   ],
+   "items": [
+    "33",
+    "35",
+    "4",
+    "8"
+   ],
+   "price_varies": true,
+   "prices": [
+    1.0,
+    1.54
+   ]
+  },
+  {
+   "pn": "T-NUT-FLM10",
+   "desc": "Nut Flanged M10",
+   "price_eur": 0.41,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-NUT-HXM6",
+   "desc": "Nut Hexagon M6",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLHM10",
+   "desc": "Nut Self-locking High M10",
+   "price_eur": 0.41,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLHM6",
+   "desc": "Nut Self-Locking High M6",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "11",
+    "5"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLHM8",
+   "desc": "Nut Self-locking High M8",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN",
+    "13. SPINDLE",
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "19",
+    "5",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLL14",
+   "desc": "NUT SELF-LOCK LOW M14",
+   "price_eur": 0.43,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "14",
+    "32",
+    "34"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLLM6",
+   "desc": "NUT SELFLOCK LOW M6",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "12. STEERING COLUMN",
+    "15. FLOOR PLATE",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "10",
+    "16",
+    "23",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLLM8",
+   "desc": "NUT SELFLOCK LOW M8",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "23",
+    "5"
+   ]
+  },
+  {
+   "pn": "T-NUT-SLM5",
+   "desc": "Nut Self-locking Low M5",
+   "price_eur": 0.41,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "11",
+    "4"
+   ]
+  },
+  {
+   "pn": "T-OIL-01",
+   "desc": "T4 ENGINE OIL",
+   "price_eur": 23.62,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "11. AUX. PARTS"
+   ],
+   "items": [
+    "2",
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-OVERFLOW-ASY-01",
+   "desc": "Overflow Bottle Assembly Valve Cover",
+   "price_eur": 13.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "9. STARTER-FLYWHEEL-IGNITION"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "T-PED-ACC1",
+   "desc": "ACCELERATOR PEDAL CHROMED",
+   "price_eur": 31.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "14. PEDALS"
+   ],
+   "items": [
+    "12",
+    "2"
+   ]
+  },
+  {
+   "pn": "T-PED-ACCMK",
+   "desc": "MiniKart Accelerator Pedal Chromed",
+   "price_eur": 28.12,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "14. PEDALS"
+   ],
+   "items": [
+    "12",
+    "2"
+   ]
+  },
+  {
+   "pn": "T-PED-BRK1",
+   "desc": "BRAKE PEDAL CHROMED",
+   "price_eur": 31.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "14. PEDALS"
+   ],
+   "items": [
+    "1",
+    "13"
+   ]
+  },
+  {
+   "pn": "T-PED-BRKMK",
+   "desc": "MiniKart Brake Pedal Chromed",
+   "price_eur": 28.12,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "14. PEDALS"
+   ],
+   "items": [
+    "1",
+    "11"
+   ]
+  },
+  {
+   "pn": "T-PED-CAP",
+   "desc": "PEDAL CAP",
+   "price_eur": 0.77,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-PED-COSYS",
+   "desc": "CUT OFF SYSTEM WITH BRUSHED STAINLESS STEEL PLATES (ONE SIDE)",
+   "price_eur": 80.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-PED-FTSY-01",
+   "desc": "TILLOTSON FOOTREST SYSTEM 5MM (with 350mm threaded bar)",
+   "price_eur": 156.97,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-PED-PIN",
+   "desc": "PEDAL PIN",
+   "price_eur": 4.11,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-PED-SPR",
+   "desc": "PEDAL SPRING",
+   "price_eur": 2.16,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-PED-SSRING",
+   "desc": "PEDAL SAFETY SNAP RING Ø3.5MM",
+   "price_eur": 0.65,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-PEDAL-EXT-SET-01",
+   "desc": "Pedal Extenders Set",
+   "price_eur": 61.95,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-PLT-FR01",
+   "desc": "Adjustable Footrest Plate",
+   "price_eur": 31.06,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-PLT-FR02",
+   "desc": "Adjustable footrest Plate Type 2",
+   "price_eur": 70.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "14. PEDALS"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-POD-BUSH",
+   "desc": "SIDE BUMPER BUSH",
+   "price_eur": 3.79,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "29"
+   ]
+  },
+  {
+   "pn": "T-POD-LFTMK14",
+   "desc": "LEFT BODYWORK MOD.MK14 BLACK",
+   "price_eur": 40.02,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "pn": "T-POD-RGHMK14",
+   "desc": "RIGHT BODYWORK MOD.MK14 BLACK",
+   "price_eur": 40.02,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "T-POD-S506",
+   "desc": "SIDE BODTWORK MOD506 BLACK (003-BS-54)",
+   "price_eur": 45.42,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "23"
+   ]
+  },
+  {
+   "pn": "T-POD-S507",
+   "desc": "SIDE BODYWORK MOD.507 BLACK",
+   "price_eur": 40.95,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "23",
+    "36"
+   ]
+  },
+  {
+   "pn": "T-POD-SDEMK20",
+   "desc": "MK20 SIDE BODYWORK BLACK",
+   "price_eur": 38.85,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "16",
+    "34/35"
+   ]
+  },
+  {
+   "pn": "T-POD-SPRSBS",
+   "desc": "TRACTION SPRING SIDE BODYWORK SUPPORTS for 2023",
+   "price_eur": 3.68,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "33"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPLFT506",
+   "desc": "LEFT 506 BODYWORK SUPPORT CHROMED",
+   "price_eur": 48.67,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "26"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPLFT507",
+   "desc": "507 LEFT BODYWORK SUPPORT CHROMED",
+   "price_eur": 44.1,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "26",
+    "38"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPLFTMK14",
+   "desc": "MK14 LEFT BODYWORK SUPPORT CHROMED",
+   "price_eur": 48.67,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "18"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPLFTMK20",
+   "desc": "MK20 LEFT BODYWORK SUPPORT CHROMED",
+   "price_eur": 40.95,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "17",
+    "36"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPRGH506",
+   "desc": "RIGHT 506 BODWORK SUPPORT CHROMED",
+   "price_eur": 48.67,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "27"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPRGH507",
+   "desc": "507 RIGHT BODYWORK SUPPORT CHROMED",
+   "price_eur": 44.1,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "27",
+    "39"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPRGHMK14",
+   "desc": "MK14 RIGHT BODYWORK SUPPORT CHROMED",
+   "price_eur": 48.67,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "pn": "T-POD-SUPRGHMK20",
+   "desc": "MK20 RIGHT BODYWORK SUPPORT CHROMED",
+   "price_eur": 40.95,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "18",
+    "37"
+   ]
+  },
+  {
+   "pn": "T-REC-TNK1",
+   "desc": "RECOVERY TANK",
+   "price_eur": 4.87,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "20. FUEL TANK",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "2",
+    "39",
+    "41"
+   ]
+  },
+  {
+   "pn": "T-RFP-001",
+   "desc": "RACING FLOOR PLANE",
+   "price_eur": 80.03,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "15. FLOOR PLATE"
+   ],
+   "items": [
+    "53",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-RFP-MK",
+   "desc": "MINI FLOOR PLATE",
+   "price_eur": 63.81,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "15. FLOOR PLATE"
+   ],
+   "items": [
+    "50",
+    "6"
+   ],
+   "price_varies": true,
+   "prices": [
+    63.81,
+    65.1
+   ]
+  },
+  {
+   "pn": "T-RIM-BEADORING",
+   "desc": "BEADLOCK SCREW M5x14MM WITH O-RING",
+   "price_eur": 2.38,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "10. RIMS"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-RIM-CENTRING",
+   "desc": "PLASTIC RIM CENTERING RING",
+   "price_eur": 4.43,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "8. HUBS"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-RIM-FR130-DWT",
+   "desc": "DOUGLAS WHEEL SH T4 130MM 2PCS",
+   "price_eur": 115.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "10. RIMS"
+   ],
+   "items": [
+    "25",
+    "4"
+   ]
+  },
+  {
+   "pn": "T-RIM-FRT115",
+   "desc": "Vented Alu Front Rim L115mm with Ø17mm bearing",
+   "price_eur": 56.7,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "10. RIMS"
+   ],
+   "items": [
+    "1",
+    "25"
+   ]
+  },
+  {
+   "pn": "T-RIM-FRT130",
+   "desc": "VENTED ALUMINIUM FRONT RIM L130mm (valve - beadlock sc.)",
+   "price_eur": 47.25,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "10. RIMS"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-RIM-RR140",
+   "desc": "Vented Alu Rear Rim L140mm with Valve",
+   "price_eur": 52.5,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "10. RIMS"
+   ],
+   "items": [
+    "2",
+    "26"
+   ]
+  },
+  {
+   "pn": "T-RIM-RR180",
+   "desc": "TILLOTSON VENTED REAR RIM L180MM BLACK LINE WET",
+   "price_eur": 57.75,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "10. RIMS"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-RIM-RR210",
+   "desc": "VENTED REAR RIM L210mm BLACK LINE",
+   "price_eur": 61.95,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "10. RIMS"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-RIM-RR212-DWT",
+   "desc": "DOUGLAS WHEEL SH T4 212MM 2PCS",
+   "price_eur": 140.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "10. RIMS"
+   ],
+   "items": [
+    "26",
+    "5"
+   ]
+  },
+  {
+   "pn": "T-RIM-VALVE",
+   "desc": "WHEEL RIM VALVE",
+   "price_eur": 1.19,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "10. RIMS"
+   ],
+   "items": [
+    "3",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-RRSPO-SB2660",
+   "desc": "SILENTBLOCK Ø26xL60MM (for Ø30mm tube)",
+   "price_eur": 6.49,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-RRSPO-SCR28",
+   "desc": "HULK REAR SPOILER MOUNTING SCREWS KIT (Ø28MM) (RIGHT + LEFT)",
+   "price_eur": 43.26,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "23",
+    "26",
+    "48"
+   ]
+  },
+  {
+   "pn": "T-RRSPO-SCR30",
+   "desc": "REAR SPOILER MOUNTING SCREWS KIT (DIA 30mm) (LEFT+RIGHT)",
+   "price_eur": 48.67,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "32",
+    "52"
+   ]
+  },
+  {
+   "pn": "T-RRSPO-SUP1",
+   "desc": "REAR SPOILER SUPPORT KIT",
+   "price_eur": 73.54,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "31",
+    "51"
+   ]
+  },
+  {
+   "pn": "T-RRSPO-SUPHK",
+   "desc": "HULK REAR SPOILER SUPPORT KIT",
+   "price_eur": 67.05,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "22",
+    "25",
+    "49"
+   ]
+  },
+  {
+   "pn": "T-SCR-BRM10",
+   "desc": "SCREW BREATHER M10",
+   "price_eur": 4.43,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-SCR-CH0620",
+   "desc": "Screw Cylindrical Head M6x20mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "10",
+    "28"
+   ]
+  },
+  {
+   "pn": "T-SCR-CH0625",
+   "desc": "Screw Cylindrical Head M6x25mm",
+   "price_eur": 0.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SCR-CH0630",
+   "desc": "Screw Cylindrical Head M6x30mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "14. PEDALS",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "12",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "pn": "T-SCR-CH0635",
+   "desc": "Screw Cylindrical Head M6x35mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "19",
+    "20",
+    "24",
+    "28"
+   ]
+  },
+  {
+   "pn": "T-SCR-CH0645",
+   "desc": "Screw Cylindrical Head M6x45mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "2",
+    "9"
+   ]
+  },
+  {
+   "pn": "T-SCR-CH0830",
+   "desc": "Screw Cylindrical Head M8x30mm",
+   "price_eur": 0.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-SCR-CHM0412",
+   "desc": "SCREW CYLINDRICAL HEAD M4x12MM",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "7",
+    "8"
+   ]
+  },
+  {
+   "pn": "T-SCR-CHM0845",
+   "desc": "SCREW CYLINDRICAL HEAD M8x45MM",
+   "price_eur": 0.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-SCR-CRS0512",
+   "desc": "Screw Cyl.Rect.Stem M5xDia6x12m",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0620",
+   "desc": "Screw Countersink Head M6x20mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "15. FLOOR PLATE"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0625",
+   "desc": "Screw Countersunk Head M6x25mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "13",
+    "20",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0822G",
+   "desc": "WASHER COUNTERSUNK Ø8x22MM TITAN GOLD ANODIZED",
+   "price_eur": 1.84,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "16",
+    "2"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0830",
+   "desc": "Screw Countersunk Head M8x30mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "21"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0845",
+   "desc": "SCREW COUNTERSUNK HEAD M8x45MM",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0850",
+   "desc": "Screw Countersunk Head M8x50mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "T-SCR-CS0870",
+   "desc": "Screw Countersunk Head M8x70mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SCR-HXFL0820",
+   "desc": "Screw Hexagon Flan Head M8x20mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "7. BEARINGS & SUPPORTS",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "20",
+    "24",
+    "3"
+   ]
+  },
+  {
+   "pn": "T-SCR-HXFL0825",
+   "desc": "Screw Hexagon Flan Head M8x25mm",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "7. BEARINGS & SUPPORTS"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-SCR-OPCM10",
+   "desc": "SCREW OIL PIPE CONNECTION M10",
+   "price_eur": 4.43,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "2",
+    "3",
+    "9"
+   ]
+  },
+  {
+   "pn": "T-SCR-RHM0508",
+   "desc": "SCREW ROUND HEAD M5x8MM",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "T-SCR-RRBMPSC",
+   "desc": "REAR BUMPER SCREW GALVANIZED WHITE",
+   "price_eur": 12.98,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SE-PADKIT",
+   "desc": "SIDE SEAT PROTECTION KIT (LEFT + RIGHT)",
+   "price_eur": 16.76,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "12",
+    "4"
+   ]
+  },
+  {
+   "pn": "T-SE-RS1",
+   "desc": "RACING SEAT SIZE 1 FLAT T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "2",
+    "3"
+   ]
+  },
+  {
+   "pn": "T-SE-RS2",
+   "desc": "RACING SEAT SIZE 2 FLAT T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-SE-RS3",
+   "desc": "RACING SEAT SIZE 3 FLAT T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-SE-RS4",
+   "desc": "RACING SEAT SIZE 4 FLAT  T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-SE-RS5",
+   "desc": "RACING SEAT SIZE 5 FLAT T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-SE-RSPLT",
+   "desc": "REINFORCEMENT SEAT PLATE",
+   "price_eur": 2.97,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "56",
+    "65",
+    "8"
+   ],
+   "price_varies": true,
+   "prices": [
+    2.97,
+    2.98
+   ]
+  },
+  {
+   "pn": "T-SE-RSXS",
+   "desc": "RACING SEAT SIZE XS FLAT T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "16. SEATS"
+   ],
+   "items": [
+    "1",
+    "54"
+   ]
+  },
+  {
+   "pn": "T-SE-RSXXS",
+   "desc": "RACING SEAT SIZE XXS FLAT T4 Logo",
+   "price_eur": 101.66,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-SE-SUP280",
+   "desc": "SEAT SUPPORT L280mm CHROMED",
+   "price_eur": 11.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SE-SUP300",
+   "desc": "SEAT SUPPORT L300mm CHROMED",
+   "price_eur": 11.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-SE-SUP320",
+   "desc": "SEAT SUPPORT L320MM CHROMED",
+   "price_eur": 11.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-SE-SUP340",
+   "desc": "SEAT SUPPORT L340mm CHROMED",
+   "price_eur": 11.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-SE-SUP360",
+   "desc": "SEAT SUPPORT L360mm CHROMED",
+   "price_eur": 11.36,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "16. SEATS"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-SIL-BLC0620",
+   "desc": "Silent Block Dia6xDia20xH5mm",
+   "price_eur": 0.66,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "15. FLOOR PLATE",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "15",
+    "3",
+    "9"
+   ]
+  },
+  {
+   "pn": "T-SPA-081805",
+   "desc": "SPACER Ø8.5xØ18xH5MM",
+   "price_eur": 3.73,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "16",
+    "5"
+   ]
+  },
+  {
+   "pn": "T-SPA-1030",
+   "desc": "SPACER Ø10xØ30xH10MM",
+   "price_eur": 2.71,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-SPA-RRBMPSP",
+   "desc": "REAR BUMPER SPACER",
+   "price_eur": 1.84,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-SPA-UNI081307",
+   "desc": "SPACER Ø8.5xØ13xH7.5MM",
+   "price_eur": 0.74,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "pn": "T-SPA103018",
+   "desc": "SPACER Ø10xØ30xH18MM TITAN GOLD ANODIZED",
+   "price_eur": 3.24,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-SPD-BSPA101622",
+   "desc": "BEARINGS SPACER Ø10.5xØ16xH22MM",
+   "price_eur": 3.24,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "T-SPD-CCSFW-MK",
+   "desc": "CCS fixed washer",
+   "price_eur": 3.73,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-SPD-CCSKIT2D-MK",
+   "desc": "RS MOD. 2 DEGREE BUSH 10MM",
+   "price_eur": 13.68,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "55",
+    "66",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SPD-CCSSJK-MK",
+   "desc": "CCS RS sferical joint kit",
+   "price_eur": 7.61,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-SPD-CCSSP04-MK",
+   "desc": "CCS RS spindle spacer 4mm kit",
+   "price_eur": 6.51,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-SPD-IB102608",
+   "desc": "SPINDLE INTERNAL BEARING Ø10xØ26xH8MM",
+   "price_eur": 3.84,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "pn": "T-SPD-KPM10",
+   "desc": "KINGPIN M10 x 86mm",
+   "price_eur": 4.62,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-SPD-KPSS10-MK",
+   "desc": "CCS RS screw spindle Ø10mm kit",
+   "price_eur": 15.89,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "pn": "T-SPD-LECC",
+   "desc": "LOWER HEAD ECCENTRIC 2MM Ã˜10MM WHITE GALVANIZED",
+   "price_eur": 3.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "pn": "T-SPD-LFT17",
+   "desc": "LEFT SPINDLE Ø17MM, BEARINGS Ø10MM",
+   "price_eur": 96.25,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "18",
+    "28"
+   ]
+  },
+  {
+   "pn": "T-SPD-LFT25",
+   "desc": "LEFT SPINDLE DIA 25mm",
+   "price_eur": 123.29,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "19",
+    "29"
+   ]
+  },
+  {
+   "pn": "T-SPD-RGH17",
+   "desc": "RIGHT SPINDLE Ø17MM BEARINGS Ø10MM",
+   "price_eur": 96.25,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "18",
+    "29"
+   ]
+  },
+  {
+   "pn": "T-SPD-RGH25",
+   "desc": "RIGHT SPINDLE DIA 25mm",
+   "price_eur": 123.29,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "19",
+    "30"
+   ]
+  },
+  {
+   "pn": "T-SPD-SP0517",
+   "desc": "Ø17 SPINDLE SPACER H5MM TITAN GOLD ANODIZED",
+   "price_eur": 3.84,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "16",
+    "31"
+   ]
+  },
+  {
+   "pn": "T-SPD-SP10",
+   "desc": "DIA 25mm SPINDLE SPACER H10mm GALVANISED WHITE",
+   "price_eur": 4.97,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "17",
+    "31"
+   ]
+  },
+  {
+   "pn": "T-SPD-SP1017",
+   "desc": "Ø17 SPINDLE SPACER H10MM TITAN GOLD ANODIZED",
+   "price_eur": 4.43,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "17",
+    "30"
+   ]
+  },
+  {
+   "pn": "T-SPD-SP5",
+   "desc": "DIA 25mm SPINDLE SPACER H5mm GALVANISED WHITE",
+   "price_eur": 2.22,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "13. SPINDLE"
+   ],
+   "items": [
+    "16",
+    "32"
+   ]
+  },
+  {
+   "pn": "T-SPD-UECC",
+   "desc": "UPPER HEAD ECCENTRIC 2MM Ã˜10MM WHITE GALVANIZED",
+   "price_eur": 3.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SPK-77T",
+   "desc": "T Series Sprocket 77T",
+   "price_eur": 14.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "56"
+   ]
+  },
+  {
+   "pn": "T-SPK-PLUG",
+   "desc": "SPARL PLUG, BRISK",
+   "price_eur": 15.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "6. CYLINDER HEAD"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SPO-DEFLKIT",
+   "desc": "506 FRONT SPOILER DEFLECTOR KIT",
+   "price_eur": 22.71,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "25"
+   ]
+  },
+  {
+   "pn": "T-SPO-FFAS1",
+   "desc": "FRONT SPOILER FASTENING",
+   "price_eur": 10.81,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "26",
+    "29",
+    "4",
+    "5",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-SPO-FHS1",
+   "desc": "HIGH FRONT SPOILER SUPPORT CHROMED",
+   "price_eur": 29.2,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "4",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-SPO-FLS1",
+   "desc": "LOW FRONT SPOILER SUPPORT CHROMED",
+   "price_eur": 23.79,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-SPO-FRO1",
+   "desc": "FRONT SPOILER MOD.506 BLACK WITH DEFLECTORS (003-BF-45)",
+   "price_eur": 74.62,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SPO-FRO2",
+   "desc": "FRONT SPOILER MOD.507 BLACK",
+   "price_eur": 75.6,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "pn": "T-SPO-FRTMK14",
+   "desc": "Front Spoiler Mod.MK14 Black",
+   "price_eur": 62.73,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SPO-FRTMK20",
+   "desc": "FRONT SPOILER MOD.MK20 BLACK",
+   "price_eur": 67.2,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "1",
+    "2",
+    "31"
+   ],
+   "price_varies": true,
+   "prices": [
+    67.2,
+    67.5
+   ]
+  },
+  {
+   "pn": "T-SPO-HFSMK14",
+   "desc": "MK14 High Front Spoiler Support Chromed",
+   "price_eur": 23.79,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-SPO-LFSUPMK14",
+   "desc": "Low Front Spoiler Support Chromed",
+   "price_eur": 30.28,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "2",
+    "4"
+   ]
+  },
+  {
+   "pn": "T-SPO-PLATE",
+   "desc": "2015 CIK-FIA FRONT SPOILER PLATE (2 pieces)",
+   "price_eur": 23.1,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "27",
+    "3",
+    "30",
+    "8"
+   ],
+   "price_varies": true,
+   "prices": [
+    23.1,
+    45.42
+   ]
+  },
+  {
+   "pn": "T-SPO-RRC3",
+   "desc": "REAR SPOILER MOD.C3 BLACK",
+   "price_eur": 92.2,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "30",
+    "40"
+   ]
+  },
+  {
+   "pn": "T-SPO-RRC3-SP",
+   "desc": "C3 REAR SPOILER SIDE PART",
+   "price_eur": 15.75,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "34"
+   ]
+  },
+  {
+   "pn": "T-SPO-RRHULK",
+   "desc": "HULK REAR SPOILER BLACK",
+   "price_eur": 69.22,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "21",
+    "24",
+    "38"
+   ]
+  },
+  {
+   "pn": "T-SPOILER-RR1",
+   "desc": "REAR SPOILER MOD CLOB BLACK",
+   "price_eur": 80.03,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "30"
+   ]
+  },
+  {
+   "pn": "T-SPR-74",
+   "desc": "T Series Sprocket 77T",
+   "price_eur": 14.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "57"
+   ]
+  },
+  {
+   "pn": "T-SPR-PROT",
+   "desc": "SPROCKET PROTECTION KIT",
+   "price_eur": 49.75,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-STK-FLOOR",
+   "desc": "TILLOTSON FLOOR PLATE STICKER",
+   "price_eur": 42.18,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "60"
+   ]
+  },
+  {
+   "pn": "T-STK-FLRMK",
+   "desc": "Tillotson MiniKart Floor Plate Sticker",
+   "price_eur": 45.42,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "pn": "T-STK-FS507",
+   "desc": "TILLOTSON FRONT SPOILER 507 STICKER",
+   "price_eur": 69.5,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "35"
+   ]
+  },
+  {
+   "pn": "T-STK-KIT506",
+   "desc": "TILLOTSON STICKERS KIT 506 + TANK",
+   "price_eur": 128.7,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "18. BODYWORK"
+   ],
+   "items": [
+    "36"
+   ]
+  },
+  {
+   "pn": "T-STK-KIT507",
+   "desc": "TILLOTSON STICKERS KIT 507 + TANK",
+   "price_eur": 145.95,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM"
+   ],
+   "items": [
+    "59"
+   ]
+  },
+  {
+   "pn": "T-STK-KITMK20",
+   "desc": "2025 TILLOTSON STICKERS KIT MK20 + TANK",
+   "price_eur": 145.95,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "10",
+    "30"
+   ]
+  },
+  {
+   "pn": "T-STR-75LPL",
+   "desc": "Steering wheel plate - 7 deg slanting - INOX",
+   "price_eur": 15.75,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "11. STEERING & HUBS"
+   ],
+   "items": [
+    "3",
+    "4"
+   ],
+   "price_varies": true,
+   "prices": [
+    15.75,
+    22.5
+   ]
+  },
+  {
+   "pn": "T-STR-COL420",
+   "desc": "R MOD.STEERING COLUMNS L420MM CHROMED",
+   "price_eur": 58.28,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "1",
+    "18"
+   ]
+  },
+  {
+   "pn": "T-STR-COL490",
+   "desc": "R MOD STEERING COLUMN L490MM CHROMED",
+   "price_eur": 58.28,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "1",
+    "18"
+   ]
+  },
+  {
+   "pn": "T-STR-COLSUP1",
+   "desc": "STEERING COLUME SUPPORT 2 HOLES",
+   "price_eur": 7.03,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "17",
+    "8"
+   ]
+  },
+  {
+   "pn": "T-STR-HUB1",
+   "desc": "STEERING WHEEL HUB KF - TILLOTSON",
+   "price_eur": 57.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "11. STEERING & HUBS"
+   ],
+   "items": [
+    "15",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "pn": "T-STR-LOC1",
+   "desc": "STEERING LOCKING COLUMN BUSH TITAN GOLD ANODISED",
+   "price_eur": 4.54,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "16",
+    "7"
+   ]
+  },
+  {
+   "pn": "T-STR-RUB8",
+   "desc": "RADIAL UNIBALL DIA 8",
+   "price_eur": 11.14,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "20",
+    "5"
+   ]
+  },
+  {
+   "pn": "T-STR-SPSPA3.8",
+   "desc": "Ø25MM SPINDLE SPACER H3.8MM WHITE GALVANIZED",
+   "price_eur": 2.05,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "pn": "T-STR-UNIBLM8",
+   "desc": "LEFT UNIBALL M8",
+   "price_eur": 11.14,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "pn": "T-STR-UNIBRM8",
+   "desc": "RIGHT UNIBALL M8",
+   "price_eur": 11.14,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "pn": "T-STR-WAS23.5",
+   "desc": "WASHER DIA. 23.5mm",
+   "price_eur": 0.58,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "19",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-STR-WHL-2",
+   "desc": "Tillotson 2025 Steering wheel",
+   "price_eur": 155.11,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "11. STEERING & HUBS"
+   ],
+   "items": [
+    "1",
+    "14",
+    "2"
+   ]
+  },
+  {
+   "pn": "T-STR-WHL1",
+   "desc": "Tillotson Faster Steering wheel",
+   "price_eur": 155.11,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "11. STEERING & HUBS"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "T-SUP-BB80",
+   "desc": "BEARING BUSH SUPPORT DIA 80mm for DIA 40-50mm AXLE",
+   "price_eur": 81.11,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "7. BEARINGS & SUPPORTS"
+   ],
+   "items": [
+    "2",
+    "44"
+   ]
+  },
+  {
+   "pn": "T-SUP-SPT50",
+   "desc": "SPROCKET SUPPORT FOR DIA 50mm AXLE WITH SCREWS",
+   "price_eur": 74.62,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "9. CHAIN GUARDS"
+   ],
+   "items": [
+    "2",
+    "46"
+   ]
+  },
+  {
+   "pn": "T-TIE-ROD210",
+   "desc": "Tie Rod L210mm Inox Anodised - Tillotson",
+   "price_eur": 22.57,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "11",
+    "21"
+   ]
+  },
+  {
+   "pn": "T-TIE-ROD270",
+   "desc": "TIE ROD L270MM",
+   "price_eur": 22.57,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "12. STEERING COLUMN"
+   ],
+   "items": [
+    "11",
+    "21"
+   ]
+  },
+  {
+   "pn": "T-TNK-4L",
+   "desc": "FUEL TANK 4.5L",
+   "price_eur": 43.26,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "20. FUEL TANK"
+   ],
+   "items": [
+    "1",
+    "51"
+   ]
+  },
+  {
+   "pn": "T-TNK-8L",
+   "desc": "FUEL TANK 8.5L",
+   "price_eur": 48.13,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "2. CHASSIS BOM",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "1",
+    "54"
+   ]
+  },
+  {
+   "pn": "T-TNK-CAP",
+   "desc": "FUEL TANK CAP BLACK",
+   "price_eur": 4.87,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "20. FUEL TANK",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-TNK-CAPGSK",
+   "desc": "FUEL TANK CAP GASKET",
+   "price_eur": 1.57,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "20. FUEL TANK",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-TNK-JCAP",
+   "desc": "FUEL TANK JOINT CAP BLACK",
+   "price_eur": 4.87,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "20. FUEL TANK",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "pn": "T-TNK-SCR1",
+   "desc": "Fuel Tank Screw",
+   "price_eur": 2.7,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "20. FUEL TANK",
+    "21. FUEL TANKS"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-WAS-0510",
+   "desc": "Washer Dia.5x10mm",
+   "price_eur": 0.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "5. BRAKE CABLES"
+   ],
+   "items": [
+    "12",
+    "5",
+    "9"
+   ]
+  },
+  {
+   "pn": "T-WAS-0612",
+   "desc": "Washer Dia.6x12mm",
+   "price_eur": 0.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "12. STEERING COLUMN",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "22",
+    "3",
+    "4",
+    "9"
+   ]
+  },
+  {
+   "pn": "T-WAS-0618",
+   "desc": "Washer Dia.6x18mm",
+   "price_eur": 0.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "15. FLOOR PLATE"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "T-WAS-0814",
+   "desc": "Washer Dia.8x14mm",
+   "price_eur": 0.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T-WAS-0816",
+   "desc": "Washer Dia.8x16mm",
+   "price_eur": 0.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN",
+    "13. SPINDLE",
+    "14. PEDALS",
+    "17. SEAT ASS.",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "18",
+    "22",
+    "4",
+    "6"
+   ]
+  },
+  {
+   "pn": "T-WAS-1020",
+   "desc": "Washer Dia.10x20mm",
+   "price_eur": 0.32,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "15. FLOOR PLATE",
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "2",
+    "3"
+   ]
+  },
+  {
+   "pn": "T-WAS-1428-BG",
+   "desc": "WASHER Ø14x28MM BLACK GALVANIZED",
+   "price_eur": 0.5,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T-WAS-C1014",
+   "desc": "COPPER WASHER Ø10x14MM",
+   "price_eur": 0.66,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "3. BRAKE SYSTEM",
+    "4. BRAKE PUMP"
+   ],
+   "items": [
+    "1",
+    "10",
+    "4"
+   ]
+  },
+  {
+   "pn": "T-WAS-CL0813",
+   "desc": "Washer with collar Ø8x13x4mm kit",
+   "price_eur": 0.97,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "13. SPINDLE"
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "pn": "T-WAS-CS0620",
+   "desc": "WASHER COUNTERSUNK Ø6x20MM TITAN GOLD ANODIZED",
+   "price_eur": 1.62,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "12. STEERING COLUMN",
+    "18. BODYWORK"
+   ],
+   "items": [
+    "14",
+    "21",
+    "8"
+   ]
+  },
+  {
+   "pn": "T-WAS-RRBMP30",
+   "desc": "REAR BUMPER WASHER Ø30mm TITAN GOLD ANODIZED",
+   "price_eur": 4.33,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "19. REAR SPOILER"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T-WAS-TF0840",
+   "desc": "TEFLON WASHER Ø8x40MM",
+   "price_eur": 1.08,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "17. SEAT ASS."
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T4-225RS-03-CS2-MK",
+   "desc": "T4 - Mini Chassis & 225 Engine, Complete Package for Europe",
+   "price_eur": 3450.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T4-225RS-CS1-EUR",
+   "desc": "T4 - Senior Chassis & 225RS Engine, Complete Package for Europe",
+   "price_eur": 4350.0,
+   "models": [
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "pn": "T4-225RS-CS1-EUR-02",
+   "desc": "T4 - Senior Chassis & 225RS Engine, Complete Package for Europe -02",
+   "price_eur": 4350.0,
+   "models": [
+    "senior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "pn": "T4-225RS-CS1-JK-EUR",
+   "desc": "T4 - Junior Chassis & 225RS Engine, Complete Package for Europe",
+   "price_eur": 4350.0,
+   "models": [
+    "junior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "T4-225RS-CS1-JK-EUR-02",
+   "desc": "T4 - Junior Chassis & 225RS Engine, Complete Package for Europe -02",
+   "price_eur": 4350.0,
+   "models": [
+    "junior"
+   ],
+   "subsystems": [
+    "chassis"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "pn": "TPP225RS",
+   "desc": "225RS ENGINE UNIT (INC FYLWHEEL, IGNITION COIL LESS AUXILIARY PARTS)",
+   "price_eur": 835.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-02",
+   "desc": "225RS-02 ENGINE UNIT (INC FYLWHEEL, IGNITION COIL LESS AUXILIARY PARTS)",
+   "price_eur": 835.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-02-SB2",
+   "desc": "225RS-02 LONG BLOCK ENGINE (LESS FLYWHEEL, IGNITION AND ANCILLARIES)",
+   "price_eur": 475.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-03",
+   "desc": "225RS-03 ENGINE UNIT (INC FYLWHEEL, IGNITION COIL LESS AUXILIARY PARTS)",
+   "price_eur": 795.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "pn": "TPP225RS-03-T4-MINI-PKG",
+   "desc": "225RS-03 ENGINE COMPLETE EUROPE VERSION",
+   "price_eur": 1250.0,
+   "models": [
+    "mini"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "pn": "TPP225RS-JK-PKG-EUR",
+   "desc": "T4 Complete Junior Engine Package Europe",
+   "price_eur": 1250.0,
+   "models": [
+    "junior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-JK-PKG-EUR-02",
+   "desc": "225RS-02 Complete Junior Engine Package Europe",
+   "price_eur": 1250.0,
+   "models": [
+    "junior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-PKG-EUR",
+   "desc": "225RS ENGINE COMPLETE EUROPE VERSION",
+   "price_eur": 1250.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-PKG-EUR-02",
+   "desc": "225RS-02 ENGINE COMPLETE EUROPE VERSION",
+   "price_eur": 1250.0,
+   "models": [
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "N/A"
+   ]
+  },
+  {
+   "pn": "TPP225RS-SB2",
+   "desc": "225RS LONG BLOCK ENGINE (LESS FLYWHEEL, IGNITION AND ANCILLARIES)",
+   "price_eur": 475.0,
+   "models": [
+    "mini",
+    "junior",
+    "senior"
+   ],
+   "subsystems": [
+    "engine"
+   ],
+   "groups": [
+    "1. PACKAGES"
+   ],
+   "items": [
+    "3",
+    "N/A"
+   ]
+  }
+ ]
+}

@@ -1,4 +1,4 @@
-# Parts Advisor — Integration Guide (for the JX Motion shop dev)
+# Parts Advisor — Integration Guide (JX Motion shop)
 
 A drop-in **spare-parts advisor** for the `shop.jxmotion.sk` Next.js + Sanity shop. It adds a
 native page under the **Náhradné diely** section where a customer can search Juraj's full Tillotson
@@ -9,12 +9,42 @@ Juraj. No checkout (v1). No new npm dependencies.
 > search only returns real rows; the AI advisor is forced to pick from real candidates and every
 > answer is validated twice against the catalog. See *How it works* below.
 
-**You need:** ~20 minutes, a free Groq API key, and the shop running locally. The shop already has
-everything else (Next.js App Router, Tailwind with shadcn-style tokens, Unbounded + DM Sans fonts).
+**Who does what:** *I (Samuel) will do the integration in the repo.* I just need a few things from
+your side first — access, a couple of code/design specifics, and Juraj's contact details. The
+checklist below is everything I need; the steps after it are what I'll then carry out myself.
 
 ---
 
-## TL;DR (the whole job)
+## ✅ What I need from you (Juraj / the shop developer)
+
+**Access**
+- [ ] The shop's **Git repo** — clone URL + write access, or I open a PR from a fork. Tell me the default branch and your branch/PR convention.
+- [ ] A **Vercel Preview** deployment on my branch/PR (so I can test on a real URL) — or temporary access to the Vercel project.
+
+**To run & deploy it**
+- [ ] How to run the shop locally: **Node version**, `npm install`, `npm run dev`.
+- [ ] A working **`.env.local`** (or the list of required env vars + safe dev values): Sanity project/dataset/token, Clerk keys, and anything else the app needs to boot. *(Without this I can't run the shop to test.)*
+- [ ] Add **`GROQ_API_KEY`** to the Vercel project env — I'll generate a free key at console.groq.com and send it, or you create one. Needed for the advisor in preview/prod.
+
+**To match your code & theme**
+- [ ] Your **import alias** (what `@/` maps to in `tsconfig`) and where `components/`, `lib/`, `data/` live.
+- [ ] Confirm these **Tailwind tokens** exist (or just share `globals.css` + `tailwind.config`): `bg-background`, `bg-card`, `text-foreground`, `text-muted-foreground`, `border-border`, `text-primary` / `bg-primary`, `font-heading`, `font-sans`. Confirm **Unbounded** (headings) + **DM Sans** (body).
+- [ ] How **locale routing** works (the `[lang]` segment under `app/`), and whether I should use your i18n dictionary or the local SK/EN one I ship.
+
+**To place it**
+- [ ] Which file is the **Náhradné diely** category page, and your **nav/menu component** — so the "Poradca dielov" link goes in the right spot.
+- [ ] Confirm the **route**: `/[lang]/products/poradca`, or tell me the path you'd prefer.
+
+**Content**
+- [ ] Juraj's real **e-mail** + **WhatsApp** number (digits only) for the enquiry "send".
+- [ ] How the enquiry should be **delivered**: default mailto / WhatsApp / copy, or POST to your existing **contact endpoint** — if the latter, the endpoint URL + expected payload.
+
+> Hand me those (the repo + `.env.local` are the two blockers; the rest I can fill in as I go), and
+> I'll take it from there. Everything below is the work I'll do once I'm in the repo.
+
+---
+
+## TL;DR (what I'll do once I have the above)
 
 1. Copy 7 files into the repo (table below) and fix the import paths to your `@/` alias.
 2. Add `GROQ_API_KEY` to Vercel env (free key from console.groq.com).

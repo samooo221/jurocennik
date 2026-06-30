@@ -11,6 +11,9 @@ import { search, groundPns } from "./catalog-search.js";
 const ADVISOR_URL = "https://jxmotion-parts-advisor.pavlovicsamuel1.workers.dev";
 // Placeholder until Juraj's real details are in — shown in the footer + empty state.
 const CONTACT = { name: "JX Motion — Juraj", phone: "+421 ___ ___ ___", email: "info@jxmotion.sk" };
+// Slovak DPH (VAT) 23%. Headline price = catalog (net) × VAT; net shown below.
+// Catalog.json stays net (source of truth); change this one number if VAT changes.
+const VAT = 1.23;
 // ======================================================================
 
 const I18N = {
@@ -22,9 +25,10 @@ const I18N = {
     empty: "No matching part.", hint: "Type to search, pick a filter, or ask the advisor.",
     results: (n) => `${n} part${n === 1 ? "" : "s"}`,
     varies: "price varies — confirm with Juraj", copy: "copy", copied: "✓",
+    incl_vat: "incl. VAT", excl_vat: "excl. VAT",
     ai_head: "Advisor picks", ai_none: "The advisor found no confident match — try the search above.",
     ai_err: "Advisor unavailable right now — use the search above.", ai_wait: "Thinking…",
-    disclaimer: "Prices: retail, EUR, ex works Tralee Ireland — final Slovak price may differ (VAT, shipping). Confirm with Juraj.",
+    disclaimer: "Headline price incl. 23% VAT (net price shown below). Retail EUR, ex works Tralee Ireland — shipping not included. Confirm with Juraj.",
     contact_lbl: "Contact",
   },
   sk: {
@@ -35,9 +39,10 @@ const I18N = {
     empty: "Žiadny zodpovedajúci diel.", hint: "Píšte, zvoľte filter alebo sa spýtajte poradcu.",
     results: (n) => `${n} ${n === 1 ? "diel" : n < 5 ? "diely" : "dielov"}`,
     varies: "cena sa líši — overte u Juraja", copy: "kopírovať", copied: "✓",
+    incl_vat: "s DPH", excl_vat: "bez DPH",
     ai_head: "Návrhy poradcu", ai_none: "Poradca nenašiel jednoznačnú zhodu — skúste vyhľadávanie vyššie.",
     ai_err: "Poradca momentálne nedostupný — použite vyhľadávanie vyššie.", ai_wait: "Premýšľam…",
-    disclaimer: "Ceny: maloobchodné, EUR, zo závodu Tralee (Írsko) — konečná cena na Slovensku sa môže líšiť (DPH, doprava). Overte u Juraja.",
+    disclaimer: "Hlavná cena s DPH 23 % (cena bez DPH je uvedená nižšie). Maloobchodné ceny EUR, zo závodu Tralee (Írsko) — bez dopravy. Overte u Juraja.",
     contact_lbl: "Kontakt",
   },
 };
@@ -144,13 +149,18 @@ function applySort(list) {
   return list; // relevance — keep search order
 }
 
+const withVat = (n) => euro(n * VAT);
 function priceHTML(p) {
   if (p.price_varies) {
     const lo = Math.min(...p.prices), hi = Math.max(...p.prices);
-    return `<div><div class="price"><span class="vary">${euro(lo)}–${euro(hi)}</span></div>
-            <div class="warn">⚠︎ ${t().varies}</div></div>`;
+    return `<div class="pricebox">
+      <div class="price"><span class="vary">${withVat(lo)}–${withVat(hi)}</span> <span class="vtag">${t().incl_vat}</span></div>
+      <div class="net">${euro(lo)}–${euro(hi)} ${t().excl_vat}</div>
+      <div class="warn">⚠︎ ${t().varies}</div></div>`;
   }
-  return `<div class="price">${euro(p.price_eur)}</div>`;
+  return `<div class="pricebox">
+      <div class="price">${withVat(p.price_eur)} <span class="vtag">${t().incl_vat}</span></div>
+      <div class="net">${euro(p.price_eur)} ${t().excl_vat}</div></div>`;
 }
 
 function card(p) {
